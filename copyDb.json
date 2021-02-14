@@ -1,0 +1,62 @@
+{
+    "user": [
+        {
+            "_id": "u101",
+            "fullName": "Orly AMdat",
+            "userName": "orly@gmail.com",
+            "password": "u101ppp",
+            "isAdmin": true,
+            "imgUrl": "http://some-img.com"
+        }
+    ],
+    "station": [
+        {
+            "_id": "5c99",
+            "name": "Funck",
+            "tags": [
+                "Funck",
+                "Happy",
+                "Rock"
+            ],
+            "createdBy": {
+                "_id": "u101",
+                "fullName": "Orly AMdat",
+                "imgUrl": "http://some-img.com"
+            },
+            "likedByUsers": [
+                {
+                    "_id": "u101",
+                    "fullName": "Orly AMdat",
+                    "imgUrl": "http://some-img.com"
+                },
+                {
+                    "_id": "u101",
+                    "fullName": "Orly AMdat",
+                    "imgUrl": "http://some-img.com"
+                }
+            ],
+            "songs": [
+                {
+                    "title": "The Meters - Cissy Sturt",
+                    "id": "s1001",
+                    "imgUrl": "http//youtube-img.com",
+                    "addedBy": {
+                        "_id": "u101",
+                        "fullName": "Orly AMdat",
+                        "imgUrl": "http://some-img.com"
+                    }
+                },
+                {
+                    "title": "The Blcks - Cisesy Sturt",
+                    "id": "s1001",
+                    "imgUrl": "http//youtube-img.com",
+                    "addedBy": {
+                        "_id": "u101",
+                        "fullName": "Orly AMdat",
+                        "imgUrl": "http://some-img.com"
+                    }
+                }
+            ]
+        }
+    ]
+}
