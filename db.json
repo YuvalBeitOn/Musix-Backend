@@ -3,7 +3,11 @@
     {
       "_id": "5c01",
       "name": "Funk nation",
+<<<<<<< HEAD
       "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "genre": "funk",
       "views": 160,
       "imgUrl": "https://i.ytimg.com/vi/aIHF7u9Wwiw/default.jpg",
@@ -91,7 +95,11 @@
     {
       "_id": "5c011",
       "name": "Cannon Ball",
+<<<<<<< HEAD
       "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "genre": "funk",
       "views": 9676,
       "imgUrl": "http://i3.ytimg.com/vi/8vGu0bf9JzU/maxresdefault.jpg",
@@ -133,6 +141,16 @@
           "duration": "6:08"
         },
         {
+<<<<<<< HEAD
+=======
+          "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+          "id": "mUkfiLjooxs",
+          "youtubeId": "Ayyy-03ITDg",
+          "imgUrl": "http://i3.ytimg.com/vi/Ayyy-03ITDg/maxresdefault.jpg",
+          "duration": "10:25"
+        },
+        {
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
           "title": "Rufus & Chaka Khan - Ain't Nobody",
           "id": "jnmnlldf7fhfys7uu",
           "youtubeId": "ZhU_jZeSy9w",
@@ -168,18 +186,65 @@
           "duration": "3:45"
         },
         {
+<<<<<<< HEAD
           "title": "Maluma - Corazón (Official Video) ft. Nego do Borel",
           "id": "SCmCCeoBHKM",
           "youtubeId": "GmHrjFIWl6U",
           "imgUrl": "https://i.ytimg.com/vi/GmHrjFIWl6U/default.jpg",
           "duration": "3:35"
+=======
+          "title": "kiyo - G (Official Music Video) Feat. Space Moses",
+          "id": "Mzh9CEAjcWt",
+          "youtubeId": "mhtBwxumtg8",
+          "imgUrl": "https://i.ytimg.com/vi/mhtBwxumtg8/default.jpg",
+          "duration": ""
+        },
+        {
+          "title": "P!nk, Willow Sage Hart - Cover Me In Sunshine (Official Video)",
+          "id": "BH9xWWhtMfL",
+          "youtubeId": "vGZhMIXH62M",
+          "imgUrl": "https://i.ytimg.com/vi/vGZhMIXH62M/default.jpg",
+          "duration": ""
+        },
+        {
+          "title": "Action Park - Zero-G Victims",
+          "id": "jIIL0RkEcnM",
+          "youtubeId": "dfcHaE8yQG0",
+          "imgUrl": "https://i.ytimg.com/vi/dfcHaE8yQG0/default.jpg",
+          "duration": ""
+        },
+        {
+          "title": "ראשית קריאה - האות פ",
+          "id": "AOKBd7XNylB",
+          "youtubeId": "W6JKoRyrxpo",
+          "imgUrl": "https://i.ytimg.com/vi/W6JKoRyrxpo/default.jpg",
+          "duration": "1:48"
+        },
+        {
+          "title": "עומר אדם - פסקול חיי",
+          "id": "njBXm2Jpi4J",
+          "youtubeId": "xmeCr9QPhkA",
+          "imgUrl": "https://i.ytimg.com/vi/xmeCr9QPhkA/default.jpg",
+          "duration": "3:16"
+        },
+        {
+          "title": "עומר אדם - מה שנפל מהידיים",
+          "id": "UxJtmwaDdyy",
+          "youtubeId": "A09Bo93dveE",
+          "imgUrl": "https://i.ytimg.com/vi/A09Bo93dveE/default.jpg",
+          "duration": "3:02"
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
         }
       ]
     },
     {
       "_id": "5c012",
       "name": "Funky vibes",
+<<<<<<< HEAD
       "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "genre": "funk",
       "views": 33,
       "imgUrl": "http://i3.ytimg.com/vi/ZhU_jZeSy9w/hqdefault.jpg",
@@ -267,7 +332,11 @@
     {
       "_id": "5c013",
       "name": "Studio funky mood",
+<<<<<<< HEAD
       "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "genre": "funk",
       "views": 120971,
       "imgUrl": "http://i3.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
@@ -351,11 +420,19 @@
           "duration": "3:45"
         },
         {
+<<<<<<< HEAD
           "title": "Ozuna - Síguelo Bailando (Video Oficial)",
           "id": "pzcd1IOZAJu",
           "youtubeId": "Dvpd9_5vuks",
           "imgUrl": "https://i.ytimg.com/vi/Dvpd9_5vuks/default.jpg",
           "duration": "4:28"
+=======
+          "title": "r/Choosingbeggars Young Workers Don&#39;t Deserve To Be Paid!",
+          "id": "8aJv1Akop1z",
+          "youtubeId": "c3ZCdFz4vVU",
+          "imgUrl": "https://i.ytimg.com/vi/c3ZCdFz4vVU/default.jpg",
+          "duration": "15:26"
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
         }
       ]
     },
@@ -2629,6 +2706,7 @@
       ]
     },
     {
+<<<<<<< HEAD
       "name": "My mix",
       "description": "Mix description",
       "genre": "funk",
@@ -2637,12 +2715,23 @@
       "likes": 0,
       "createdBy": {
         "_id": "bTt5m8ZtYqP",
+=======
+      "name": "New Mix",
+      "description": "Mix description",
+      "genre": "funk",
+      "views": 0,
+      "imgUrl": "",
+      "likes": 0,
+      "createdBy": {
+        "_id": "YuYLnJtGgV2",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
         "fullName": "Orly Amdadi"
       },
       "tags": [],
       "likedByUsers": [],
       "songs": [
         {
+<<<<<<< HEAD
           "title": "דולי ופן עם דיקלה, עידן חביב ומארק אליהו - ואז את תראי",
           "id": "Sr4ol8qSYlf",
           "youtubeId": "iCitB5bkB3E",
@@ -2651,6 +2740,32 @@
         }
       ],
       "_id": "L8GK0cl"
+=======
+          "title": "עומר אדם - פסקול חיי",
+          "id": "bH2z4xbWFdV",
+          "youtubeId": "xmeCr9QPhkA",
+          "imgUrl": "https://i.ytimg.com/vi/xmeCr9QPhkA/default.jpg",
+          "duration": ""
+        }
+      ],
+      "_id": "hmj7MDf"
+    },
+    {
+      "name": "Electro Mix",
+      "description": "what what",
+      "genre": "electro",
+      "views": 0,
+      "imgUrl": "defualtImg.jpg",
+      "likes": 0,
+      "createdBy": {
+        "_id": "FW2NMfyJP93",
+        "fullName": "Orly Amdadi"
+      },
+      "tags": [],
+      "likedByUsers": [],
+      "songs": [],
+      "_id": "oVtaXhH"
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
     }
   ],
   "user": [
@@ -2660,6 +2775,7 @@
       "userName": "shalom@tikva.com",
       "password": "hapoel",
       "isAdmin": false,
+<<<<<<< HEAD
       "followers": [
         {
           "_id": "u103",
@@ -2672,6 +2788,8 @@
           "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
         }
       ],
+=======
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
     },
     {
@@ -2680,6 +2798,7 @@
       "userName": "god@isgood.com",
       "password": "godforever",
       "isAdmin": true,
+<<<<<<< HEAD
       "followers": [
         {
           "_id": "u102",
@@ -2692,6 +2811,8 @@
           "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
         }
       ],
+=======
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
     },
     {
@@ -2700,6 +2821,7 @@
       "userName": "harel@nisim.com",
       "password": "nisiminis",
       "isAdmin": false,
+<<<<<<< HEAD
       "followers": [
         {
           "_id": "u102",
@@ -2712,6 +2834,8 @@
           "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
         }
       ],
+=======
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
       "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
     }
   ]
