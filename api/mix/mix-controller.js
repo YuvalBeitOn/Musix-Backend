@@ -7,7 +7,7 @@ async function getMix(req, res) {
 }
 
 async function getMixes(req, res) {
-  const mixes = await mixService.query(req.query.userId);
+  const mixes = await mixService.query(req.query);
   // logger.debug(mixes);
   res.send(mixes);
 }
