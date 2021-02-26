@@ -3,7 +3,7 @@
         {
             "_id": "u101",
             "fullName": "Orly AMdat",
-            "userName": "orly@gmail.com",
+            "email": "orly@gmail.com",
             "password": "u101ppp",
             "isAdmin": true,
             "imgUrl": "http://some-img.com"

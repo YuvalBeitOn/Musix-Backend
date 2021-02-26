@@ -2715,7 +2715,7 @@
     {
       "_id": "u102",
       "fullName": "Shalom tikva",
-      "userName": "shalom@tikva.com",
+      "email": "shalom@tikva.com",
       "password": "hapoel",
       "isAdmin": false,
       "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
@@ -2723,7 +2723,7 @@
     {
       "_id": "u100",
       "fullName": "Aba Shebashamim",
-      "userName": "god@isgood.com",
+      "email": "god@isgood.com",
       "password": "godforever",
       "isAdmin": true,
       "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
@@ -2731,7 +2731,7 @@
     {
       "_id": "u100",
       "fullName": "Harel nisim",
-      "userName": "harel@nisim.com",
+      "email": "harel@nisim.com",
       "password": "nisiminis",
       "isAdmin": false,
       "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
