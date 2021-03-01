@@ -1,21 +1,15 @@
-const { loadMixes,socketHandler } = require('./socket.service');
-
+const { loadMixes, socketHandler } = require('./socket.service');
 
 var counter = 0
 
 function connectSockets(io) {
-    
-    io.on('connection',socket=>{
-       
-        
-        socketHandler(socket,io)
+
+    io.on('connection', socket => {
+        socketHandler(socket, io)
         counter++
         console.log('connection !!' + counter)
-
-        socket.on('load',loadMixes)
+        socket.on('load', loadMixes)
     })
-   
 }
 
-
-module.exports = {connectSockets}
+module.exports = { connectSockets }

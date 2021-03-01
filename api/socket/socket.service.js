@@ -1,8 +1,7 @@
-
 var socket;
 var io;
 
-function socketHandler(Socket,Io){
+function socketHandler(Socket, Io) {
     socket = Socket
     io = Io
     console.log('socket:', socket)
@@ -10,13 +9,13 @@ function socketHandler(Socket,Io){
 }
 
 function loadMixes(value) {
- console.log('value:', value)
- socket.emit('update','go back')
+    console.log('value:', value)
+    socket.emit('update', 'go back')
 
 }
 
 
 module.exports = {
-    loadMixes,socketHandler
-  
+    loadMixes, socketHandler
+
 }
