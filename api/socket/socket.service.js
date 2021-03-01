@@ -1,12 +1,7 @@
-<<<<<<< HEAD
 
 const chalk = require('chalk');
 // var socket;
 // var io;
-=======
-var socket;
-var io;
->>>>>>> 180f6e885da585f1f66ea393d701526eca6a19c7
 
 function socketHandler(Socket, Io) {
     socket = Socket
