@@ -1974,17 +1974,6 @@
             ]
         },
         {
-<<<<<<< HEAD
-            "_id": "u101",
-            "fullName": "Orly AMdat",
-            "email": "orly@gmail.com",
-            "password": "u101ppp",
-            "isAdmin": true,
-            "imgUrl": "http://some-img.com"
-        }
-    ],
-    "station": [
-=======
             "_id": "7a01",
             "name": "פלייליסט עידן רייכל",
             "description": "My forever mood mix",
@@ -2551,7 +2540,6 @@
                 }
             ]
         },
->>>>>>> 6c7b2db10189d66f8467e745ecf1ee80633e964d
         {
             "_id": "1b04",
             "name": "Classic old stuff",
