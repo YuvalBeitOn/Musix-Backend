@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.60e98982.chunk.css",
+    "main.js": "/static/js/main.4cc7be38.chunk.js",
+    "main.js.map": "/static/js/main.4cc7be38.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.81243934.js",
+    "runtime-main.js.map": "/static/js/runtime-main.81243934.js.map",
+    "static/js/2.b9c81c43.chunk.js": "/static/js/2.b9c81c43.chunk.js",
+    "static/js/2.b9c81c43.chunk.js.map": "/static/js/2.b9c81c43.chunk.js.map",
+    "static/js/3.1c635fce.chunk.js": "/static/js/3.1c635fce.chunk.js",
+    "static/js/3.1c635fce.chunk.js.map": "/static/js/3.1c635fce.chunk.js.map",
+    "index.html": "/index.html",
+    "service-worker.js": "/service-worker.js",
+    "service-worker.js.map": "/service-worker.js.map",
+    "static/css/main.60e98982.chunk.css.map": "/static/css/main.60e98982.chunk.css.map",
+    "static/js/2.b9c81c43.chunk.js.LICENSE.txt": "/static/js/2.b9c81c43.chunk.js.LICENSE.txt",
+    "static/media/AppHeader.scss": "/static/media/gotham-medium.b23bb62d.ttf",
+    "static/media/guy.645256ab.jfif": "/static/media/guy.645256ab.jfif",
+    "static/media/yuval.f4999f32.jpg": "/static/media/yuval.f4999f32.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.81243934.js",
+    "static/js/2.b9c81c43.chunk.js",
+    "static/css/main.60e98982.chunk.css",
+    "static/js/main.4cc7be38.chunk.js"
+  ]
+}

@@ -5,7 +5,6 @@ const userService = require('../user/user.service');
 const saltRounds = 10;
 
 async function login(email, password) {
-	console.log('email, password in login in auth service :', email, password);
 	if (!email || !password) throw new Error('Email and Password are required!');
 	const user = await userService.getByEmail(email);
 	if (!user) return Promise.reject('Invalid email or password');

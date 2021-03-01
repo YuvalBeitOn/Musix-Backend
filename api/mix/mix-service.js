@@ -3,9 +3,7 @@ const dbService = require('../../services/db.service')
 const ObjectId = require('mongodb').ObjectId
 
 async function query(filterBy = {}) {
-    console.log('filterBy:', filterBy)
     const criteria = _buildCriteria(filterBy)
-    console.log('criteria:', criteria)
     const collection = await dbService.getCollection('mix')
     try {
         const mixes = await collection.find(criteria).toArray();

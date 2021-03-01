@@ -61,7 +61,6 @@ async function getById(userId) {
     const collection = await dbService.getCollection('user')
     try {
         const user = await collection.findOne({ "_id": ObjectId(userId) })
-        console.log("getById -> user", user)
         delete user.password
         return user
     } catch (err) {
@@ -74,7 +73,6 @@ async function getById(userId) {
 async function update(user) {
 	const collection = await dbService.getCollection('user');
 	user._id = ObjectId(user._id);
-	console.log('user before update in service:', user);
 	try {
         await collection.updateOne({ _id: user._id }, { $set: user })
 		return user;
