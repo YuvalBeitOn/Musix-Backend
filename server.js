@@ -8,7 +8,7 @@ const path = require('path');
 const app = express();
 const http = require('http').createServer(app);
 
-// const io = require('socket.io')(http);
+const io = require('socket.io')(http);
 
 app.use(cookieParser());
 app.use(bodyParser.json({limit: '50mb'}));
@@ -31,8 +31,7 @@ if (process.env.NODE_ENV === 'production') {
 	app.use(cors(corsOptions));
 }
 
-// const connectSockets = require('./api/socket/socket.routes')
-
+const {connectSockets} = require('./api/socket/socket.routes');
 const authRoutes = require('./api/auth/auth.routes');
 const userRoutes = require('./api/user/user.routes');
 const mixRoutes = require('./api/mix/mix.routes')
@@ -41,7 +40,7 @@ app.use('/api/mix', mixRoutes)
 app.use('/api/auth', authRoutes);
 app.use('/api/user', userRoutes);
 
-// connectSockets(io)
+connectSockets(io)
 
 app.get('/**', (req, res) => {
 	res.sendFile(path.join(__dirname, 'public', 'index.html'));
