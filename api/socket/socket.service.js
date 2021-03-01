@@ -5,18 +5,29 @@ var io;
 function socketHandler(Socket,Io){
     socket = Socket
     io = Io
-    console.log('socket:', socket)
-    console.log('//////////io:', io)
+ 
 }
 
-function loadMixes(value) {
- console.log('value:', value)
- socket.emit('update','go back')
+function loadMixes() {
+ socket.broadcast.emit('load-mixes')
+}
 
+function setMix(mixId) {
+    if(socket.mix){
+        socket.leave(socket.mix)
+    }
+    socket.join(mixId)
+    socket.mix = mixId
+    console.log('socket.mix:', socket.mix)
+   
+}
+
+function loadMix() {
+    socket.broadcast.to(socket.mix).emit('load-mix')
 }
 
 
 module.exports = {
-    loadMixes,socketHandler
+    loadMixes,socketHandler,setMix,loadMix
   
 }
