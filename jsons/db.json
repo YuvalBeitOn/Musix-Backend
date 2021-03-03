@@ -1,0 +1,2842 @@
+{
+  "mix": [
+    {
+      "_id": "5c01",
+      "name": "Funk nation",
+<<<<<<< HEAD
+      "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "genre": "funk",
+      "views": 160,
+      "imgUrl": "https://i.ytimg.com/vi/aIHF7u9Wwiw/default.jpg",
+      "likes": 241,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Mac Miller - Good News",
+          "id": "i6Hdm",
+          "youtubeId": "aIHF7u9Wwiw",
+          "imgUrl": "https://i.ytimg.com/vi/aIHF7u9Wwiw/default.jpg",
+          "duration": "3:21"
+        },
+        {
+          "title": "Ashford & Simpson - Bourgié Bourgié",
+          "id": "mUkfdfffgfiLjooxs",
+          "youtubeId": "8vGu0bf9JzU",
+          "imgUrl": "http://i3.ytimg.com/vi/8vGu0bf9JzU/maxresdefault.jpg",
+          "duration": "6:08"
+        },
+        {
+          "title": "Rufus & Chaka Khan - Ain't Nobody",
+          "id": "jnmnlldf7fhfys7uu",
+          "youtubeId": "ZhU_jZeSy9w",
+          "imgUrl": "http://i3.ytimg.com/vi/ZhU_jZeSy9w/hqdefault.jpg",
+          "duration": "4:42"
+        },
+        {
+          "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+          "id": "mUkfiLjooxs",
+          "youtubeId": "Ayyy-03ITDg",
+          "imgUrl": "http://i3.ytimg.com/vi/Ayyy-03ITDg/maxresdefault.jpg",
+          "duration": "10:25"
+        },
+        {
+          "title": "Earth, Wind & Fire - September",
+          "id": "mUkffgfiLjooxs",
+          "youtubeId": "Gs069dndIYk",
+          "imgUrl": "http://i3.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
+          "duration": "3:35"
+        },
+        {
+          "title": "Curtis Mayfield - Only You Babe",
+          "id": "k8dhjanv6s73hf4",
+          "youtubeId": "Hc4fgeORsD4",
+          "imgUrl": "http://i3.ytimg.com/vi/Hc4fgeORsD4/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Randy Crawford - Street Life - 1979",
+          "id": "mUkfdfffgfiLjossoxs",
+          "youtubeId": "JktLeUkmGLg",
+          "imgUrl": "http://i3.ytimg.com/vi/JktLeUkmGLg/maxresdefault.jpg",
+          "duration": "4:51"
+        },
+        {
+          "title": "Diana Ross - Love Hangover - 1976",
+          "id": "uasydui3ui2hui1sda",
+          "youtubeId": "qy185xXA93E",
+          "imgUrl": "http://i3.ytimg.com/vi/qy185xXA93E/hqdefault.jpg",
+          "duration": "3:45"
+        }
+      ]
+    },
+    {
+      "_id": "5c011",
+      "name": "Cannon Ball",
+<<<<<<< HEAD
+      "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "genre": "funk",
+      "views": 9676,
+      "imgUrl": "http://i3.ytimg.com/vi/8vGu0bf9JzU/maxresdefault.jpg",
+      "likes": 327,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Curtis Mayfield - Only You Babe",
+          "id": "k8dhjanv6s73hf4",
+          "youtubeId": "Hc4fgeORsD4",
+          "imgUrl": "http://i3.ytimg.com/vi/Hc4fgeORsD4/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Ashford & Simpson - Bourgié Bourgié",
+          "id": "mUkfdfffgfiLjooxs",
+          "youtubeId": "8vGu0bf9JzU",
+          "imgUrl": "http://i3.ytimg.com/vi/8vGu0bf9JzU/maxresdefault.jpg",
+          "duration": "6:08"
+        },
+        {
+<<<<<<< HEAD
+=======
+          "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+          "id": "mUkfiLjooxs",
+          "youtubeId": "Ayyy-03ITDg",
+          "imgUrl": "http://i3.ytimg.com/vi/Ayyy-03ITDg/maxresdefault.jpg",
+          "duration": "10:25"
+        },
+        {
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+          "title": "Rufus & Chaka Khan - Ain't Nobody",
+          "id": "jnmnlldf7fhfys7uu",
+          "youtubeId": "ZhU_jZeSy9w",
+          "imgUrl": "http://i3.ytimg.com/vi/ZhU_jZeSy9w/hqdefault.jpg",
+          "duration": "4:42"
+        },
+        {
+          "title": "Earth, Wind & Fire - September",
+          "id": "mUkffgfiLjooxs",
+          "youtubeId": "Gs069dndIYk",
+          "imgUrl": "http://i3.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
+          "duration": "3:35"
+        },
+        {
+          "title": "Randy Crawford - Street Life - 1979",
+          "id": "mUkfdfffgfiLjossoxs",
+          "youtubeId": "JktLeUkmGLg",
+          "imgUrl": "http://i3.ytimg.com/vi/JktLeUkmGLg/maxresdefault.jpg",
+          "duration": "4:51"
+        },
+        {
+          "title": "Mac Miller - Good News",
+          "id": "i6Hdm",
+          "youtubeId": "aIHF7u9Wwiw",
+          "imgUrl": "https://i.ytimg.com/vi/aIHF7u9Wwiw/default.jpg",
+          "duration": "3:21"
+        },
+        {
+          "title": "Diana Ross - Love Hangover - 1976",
+          "id": "uasydui3ui2hui1sda",
+          "youtubeId": "qy185xXA93E",
+          "imgUrl": "http://i3.ytimg.com/vi/qy185xXA93E/hqdefault.jpg",
+          "duration": "3:45"
+        },
+        {
+<<<<<<< HEAD
+          "title": "Maluma - Corazón (Official Video) ft. Nego do Borel",
+          "id": "SCmCCeoBHKM",
+          "youtubeId": "GmHrjFIWl6U",
+          "imgUrl": "https://i.ytimg.com/vi/GmHrjFIWl6U/default.jpg",
+          "duration": "3:35"
+=======
+          "title": "kiyo - G (Official Music Video) Feat. Space Moses",
+          "id": "Mzh9CEAjcWt",
+          "youtubeId": "mhtBwxumtg8",
+          "imgUrl": "https://i.ytimg.com/vi/mhtBwxumtg8/default.jpg",
+          "duration": ""
+        },
+        {
+          "title": "P!nk, Willow Sage Hart - Cover Me In Sunshine (Official Video)",
+          "id": "BH9xWWhtMfL",
+          "youtubeId": "vGZhMIXH62M",
+          "imgUrl": "https://i.ytimg.com/vi/vGZhMIXH62M/default.jpg",
+          "duration": ""
+        },
+        {
+          "title": "Action Park - Zero-G Victims",
+          "id": "jIIL0RkEcnM",
+          "youtubeId": "dfcHaE8yQG0",
+          "imgUrl": "https://i.ytimg.com/vi/dfcHaE8yQG0/default.jpg",
+          "duration": ""
+        },
+        {
+          "title": "ראשית קריאה - האות פ",
+          "id": "AOKBd7XNylB",
+          "youtubeId": "W6JKoRyrxpo",
+          "imgUrl": "https://i.ytimg.com/vi/W6JKoRyrxpo/default.jpg",
+          "duration": "1:48"
+        },
+        {
+          "title": "עומר אדם - פסקול חיי",
+          "id": "njBXm2Jpi4J",
+          "youtubeId": "xmeCr9QPhkA",
+          "imgUrl": "https://i.ytimg.com/vi/xmeCr9QPhkA/default.jpg",
+          "duration": "3:16"
+        },
+        {
+          "title": "עומר אדם - מה שנפל מהידיים",
+          "id": "UxJtmwaDdyy",
+          "youtubeId": "A09Bo93dveE",
+          "imgUrl": "https://i.ytimg.com/vi/A09Bo93dveE/default.jpg",
+          "duration": "3:02"
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+        }
+      ]
+    },
+    {
+      "_id": "5c012",
+      "name": "Funky vibes",
+<<<<<<< HEAD
+      "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "genre": "funk",
+      "views": 33,
+      "imgUrl": "http://i3.ytimg.com/vi/ZhU_jZeSy9w/hqdefault.jpg",
+      "likes": 8,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Mac Miller - Good News",
+          "id": "i6Hdm",
+          "youtubeId": "aIHF7u9Wwiw",
+          "imgUrl": "https://i.ytimg.com/vi/aIHF7u9Wwiw/default.jpg",
+          "duration": "3:21"
+        },
+        {
+          "title": "Rufus & Chaka Khan - Ain't Nobody",
+          "id": "jnmnlldf7fhfys7uu",
+          "youtubeId": "ZhU_jZeSy9w",
+          "imgUrl": "http://i3.ytimg.com/vi/ZhU_jZeSy9w/hqdefault.jpg",
+          "duration": "4:42"
+        },
+        {
+          "title": "Diana Ross - Love Hangover - 1976",
+          "id": "uasydui3ui2hui1sda",
+          "youtubeId": "qy185xXA93E",
+          "imgUrl": "http://i3.ytimg.com/vi/qy185xXA93E/hqdefault.jpg",
+          "duration": "3:45"
+        },
+        {
+          "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+          "id": "mUkfiLjooxs",
+          "youtubeId": "Ayyy-03ITDg",
+          "imgUrl": "http://i3.ytimg.com/vi/Ayyy-03ITDg/maxresdefault.jpg",
+          "duration": "10:25"
+        },
+        {
+          "title": "Ashford & Simpson - Bourgié Bourgié",
+          "id": "mUkfdfffgfiLjooxs",
+          "youtubeId": "8vGu0bf9JzU",
+          "imgUrl": "http://i3.ytimg.com/vi/8vGu0bf9JzU/maxresdefault.jpg",
+          "duration": "6:08"
+        },
+        {
+          "title": "Randy Crawford - Street Life - 1979",
+          "id": "mUkfdfffgfiLjossoxs",
+          "youtubeId": "JktLeUkmGLg",
+          "imgUrl": "http://i3.ytimg.com/vi/JktLeUkmGLg/maxresdefault.jpg",
+          "duration": "4:51"
+        },
+        {
+          "title": "Curtis Mayfield - Only You Babe",
+          "id": "k8dhjanv6s73hf4",
+          "youtubeId": "Hc4fgeORsD4",
+          "imgUrl": "http://i3.ytimg.com/vi/Hc4fgeORsD4/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Earth, Wind & Fire - September",
+          "id": "mUkffgfiLjooxs",
+          "youtubeId": "Gs069dndIYk",
+          "imgUrl": "http://i3.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
+          "duration": "3:35"
+        }
+      ]
+    },
+    {
+      "_id": "5c013",
+      "name": "Studio funky mood",
+<<<<<<< HEAD
+      "description": "MIXTAPE COPYRIGHT",
+=======
+      "description": "Musix Copyrights",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "genre": "funk",
+      "views": 120971,
+      "imgUrl": "http://i3.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
+      "likes": 3622,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Mac Miller - Good News",
+          "id": "i6Hdm",
+          "youtubeId": "aIHF7u9Wwiw",
+          "imgUrl": "https://i.ytimg.com/vi/aIHF7u9Wwiw/default.jpg",
+          "duration": "3:21"
+        },
+        {
+          "title": "Ashford & Simpson - Bourgié Bourgié",
+          "id": "mUkfdfffgfiLjooxs",
+          "youtubeId": "8vGu0bf9JzU",
+          "imgUrl": "http://i3.ytimg.com/vi/8vGu0bf9JzU/maxresdefault.jpg",
+          "duration": "6:08"
+        },
+        {
+          "title": "Rufus & Chaka Khan - Ain't Nobody",
+          "id": "jnmnlldf7fhfys7uu",
+          "youtubeId": "ZhU_jZeSy9w",
+          "imgUrl": "http://i3.ytimg.com/vi/ZhU_jZeSy9w/hqdefault.jpg",
+          "duration": "4:42"
+        },
+        {
+          "title": "GOT TO GIVE IT UP - MARVIN GAYE",
+          "id": "mUkfiLjooxs",
+          "youtubeId": "Ayyy-03ITDg",
+          "imgUrl": "http://i3.ytimg.com/vi/Ayyy-03ITDg/maxresdefault.jpg",
+          "duration": "10:25"
+        },
+        {
+          "title": "Curtis Mayfield - Only You Babe",
+          "id": "k8dhjanv6s73hf4",
+          "youtubeId": "Hc4fgeORsD4",
+          "imgUrl": "http://i3.ytimg.com/vi/Hc4fgeORsD4/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Earth, Wind & Fire - September",
+          "id": "mUkffgfiLjooxs",
+          "youtubeId": "Gs069dndIYk",
+          "imgUrl": "http://i3.ytimg.com/vi/Gs069dndIYk/maxresdefault.jpg",
+          "duration": "3:35"
+        },
+        {
+          "title": "Randy Crawford - Street Life - 1979",
+          "id": "mUkfdfffgfiLjossoxs",
+          "youtubeId": "JktLeUkmGLg",
+          "imgUrl": "http://i3.ytimg.com/vi/JktLeUkmGLg/maxresdefault.jpg",
+          "duration": "4:51"
+        },
+        {
+          "title": "Diana Ross - Love Hangover - 1976",
+          "id": "uasydui3ui2hui1sda",
+          "youtubeId": "qy185xXA93E",
+          "imgUrl": "http://i3.ytimg.com/vi/qy185xXA93E/hqdefault.jpg",
+          "duration": "3:45"
+        },
+        {
+<<<<<<< HEAD
+          "title": "Ozuna - Síguelo Bailando (Video Oficial)",
+          "id": "pzcd1IOZAJu",
+          "youtubeId": "Dvpd9_5vuks",
+          "imgUrl": "https://i.ytimg.com/vi/Dvpd9_5vuks/default.jpg",
+          "duration": "4:28"
+=======
+          "title": "r/Choosingbeggars Young Workers Don&#39;t Deserve To Be Paid!",
+          "id": "8aJv1Akop1z",
+          "youtubeId": "c3ZCdFz4vVU",
+          "imgUrl": "https://i.ytimg.com/vi/c3ZCdFz4vVU/default.jpg",
+          "duration": "15:26"
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+        }
+      ]
+    },
+    {
+      "_id": "5c02",
+      "description": "My forever mood mix",
+      "genre": "pop",
+      "views": 198,
+      "imgUrl": "http://i3.ytimg.com/vi/ktvTqknDobU/maxresdefault.jpg",
+      "name": "Funky Pops",
+      "likes": 11,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Imagine Dragons - Radioactive",
+          "id": "mU3sv4kfiLjooxs",
+          "youtubeId": "ktvTqknDobU",
+          "imgUrl": "http://i3.ytimg.com/vi/ktvTqknDobU/maxresdefault.jpg",
+          "duration": "4:21"
+        },
+        {
+          "title": "Michael Jackson - Smooth Criminal",
+          "id": "mUkdfigLjooxs",
+          "youtubeId": "h_D3VFfhvs4",
+          "imgUrl": "http://i3.ytimg.com/vi/h_D3VFfhvs4/maxresdefault.jpg",
+          "duration": "9:25"
+        },
+        {
+          "title": "Dua Lipa - Don't Start Now",
+          "id": "mUkfigddLjooxs",
+          "youtubeId": "oygrmJFKYZY",
+          "imgUrl": "http://i3.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+          "duration": "3:01"
+        },
+        {
+          "title": "Ed Sheeran - Shape of You",
+          "id": "jkdajduh7ady78w",
+          "youtubeId": "JGwWNGJdvx8",
+          "imgUrl": "http://i3.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Why Don't We - Fallin' (Adrenaline)",
+          "id": "a0ida0sidai9d",
+          "youtubeId": "vgx-R_4s12U",
+          "imgUrl": "http://i3.ytimg.com/vi/vgx-R_4s12U/maxresdefault.jpg",
+          "duration": "3:37"
+        },
+        {
+          "title": "Sia - Hey Boy",
+          "id": "bk9shs4ag352j7f",
+          "youtubeId": "lMuLNp5xW8w",
+          "imgUrl": "http://i3.ytimg.com/vi/lMuLNp5xW8w/maxresdefault.jpg",
+          "duration": "2:39"
+        },
+        {
+          "title": "Ariana Grande - positions",
+          "id": "hnmsd3un78nd6dhf",
+          "youtubeId": "tcYodQoapMg",
+          "imgUrl": "http://i3.ytimg.com/vi/tcYodQoapMg/maxresdefault.jpg",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "_id": "6c03",
+      "description": "My forever mood mix",
+      "genre": "pop",
+      "views": 509,
+      "imgUrl": "http://i3.ytimg.com/vi/h_D3VFfhvs4/maxresdefault.jpg",
+      "name": "Pop star",
+      "likes": 66,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Imagine Dragons - Radioactive",
+          "id": "mU3sv4kfiLjooxs",
+          "youtubeId": "ktvTqknDobU",
+          "imgUrl": "http://i3.ytimg.com/vi/ktvTqknDobU/maxresdefault.jpg",
+          "duration": "4:21"
+        },
+        {
+          "title": "Michael Jackson - Smooth Criminal",
+          "id": "mUkdfigLjooxs",
+          "youtubeId": "h_D3VFfhvs4",
+          "imgUrl": "http://i3.ytimg.com/vi/h_D3VFfhvs4/maxresdefault.jpg",
+          "duration": "9:25"
+        },
+        {
+          "title": "Dua Lipa - Don't Start Now",
+          "id": "mUkfigddLjooxs",
+          "youtubeId": "oygrmJFKYZY",
+          "imgUrl": "http://i3.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+          "duration": "3:01"
+        },
+        {
+          "title": "Ed Sheeran - Shape of You",
+          "id": "jkdajduh7ady78w",
+          "youtubeId": "JGwWNGJdvx8",
+          "imgUrl": "http://i3.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Why Don't We - Fallin' (Adrenaline)",
+          "id": "a0ida0sidai9d",
+          "youtubeId": "vgx-R_4s12U",
+          "imgUrl": "http://i3.ytimg.com/vi/vgx-R_4s12U/maxresdefault.jpg",
+          "duration": "3:37"
+        },
+        {
+          "title": "Sia - Hey Boy",
+          "id": "bk9shs4ag352j7f",
+          "youtubeId": "lMuLNp5xW8w",
+          "imgUrl": "http://i3.ytimg.com/vi/lMuLNp5xW8w/maxresdefault.jpg",
+          "duration": "2:39"
+        },
+        {
+          "title": "Ariana Grande - positions",
+          "id": "hnmsd3un78nd6dhf",
+          "youtubeId": "tcYodQoapMg",
+          "imgUrl": "http://i3.ytimg.com/vi/tcYodQoapMg/maxresdefault.jpg",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "_id": "6c04",
+      "description": "My forever mood mix",
+      "genre": "pop",
+      "views": 4177,
+      "imgUrl": "http://i3.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+      "name": "What's poppin?!",
+      "likes": 801,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Imagine Dragons - Radioactive",
+          "id": "mU3sv4kfiLjooxs",
+          "youtubeId": "ktvTqknDobU",
+          "imgUrl": "http://i3.ytimg.com/vi/ktvTqknDobU/maxresdefault.jpg",
+          "duration": "4:21"
+        },
+        {
+          "title": "Michael Jackson - Smooth Criminal",
+          "id": "mUkdfigLjooxs",
+          "youtubeId": "h_D3VFfhvs4",
+          "imgUrl": "http://i3.ytimg.com/vi/h_D3VFfhvs4/maxresdefault.jpg",
+          "duration": "9:25"
+        },
+        {
+          "title": "Dua Lipa - Don't Start Now",
+          "id": "mUkfigddLjooxs",
+          "youtubeId": "oygrmJFKYZY",
+          "imgUrl": "http://i3.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+          "duration": "3:01"
+        },
+        {
+          "title": "Ed Sheeran - Shape of You",
+          "id": "jkdajduh7ady78w",
+          "youtubeId": "JGwWNGJdvx8",
+          "imgUrl": "http://i3.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Why Don't We - Fallin' (Adrenaline)",
+          "id": "a0ida0sidai9d",
+          "youtubeId": "vgx-R_4s12U",
+          "imgUrl": "http://i3.ytimg.com/vi/vgx-R_4s12U/maxresdefault.jpg",
+          "duration": "3:37"
+        },
+        {
+          "title": "Sia - Hey Boy",
+          "id": "bk9shs4ag352j7f",
+          "youtubeId": "lMuLNp5xW8w",
+          "imgUrl": "http://i3.ytimg.com/vi/lMuLNp5xW8w/maxresdefault.jpg",
+          "duration": "2:39"
+        },
+        {
+          "title": "Ariana Grande - positions",
+          "id": "hnmsd3un78nd6dhf",
+          "youtubeId": "tcYodQoapMg",
+          "imgUrl": "http://i3.ytimg.com/vi/tcYodQoapMg/maxresdefault.jpg",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "_id": "6c05",
+      "description": "My forever mood mix",
+      "genre": "pop",
+      "views": 5187,
+      "imgUrl": "http://i3.ytimg.com/vi/tcYodQoapMg/maxresdefault.jpg",
+      "name": "Pop corn",
+      "likes": 90,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Imagine Dragons - Radioactive",
+          "id": "mU3sv4kfiLjooxs",
+          "youtubeId": "ktvTqknDobU",
+          "imgUrl": "http://i3.ytimg.com/vi/ktvTqknDobU/maxresdefault.jpg",
+          "duration": "4:21"
+        },
+        {
+          "title": "Michael Jackson - Smooth Criminal",
+          "id": "mUkdfigLjooxs",
+          "youtubeId": "h_D3VFfhvs4",
+          "imgUrl": "http://i3.ytimg.com/vi/h_D3VFfhvs4/maxresdefault.jpg",
+          "duration": "9:25"
+        },
+        {
+          "title": "Dua Lipa - Don't Start Now",
+          "id": "mUkfigddLjooxs",
+          "youtubeId": "oygrmJFKYZY",
+          "imgUrl": "http://i3.ytimg.com/vi/oygrmJFKYZY/maxresdefault.jpg",
+          "duration": "3:01"
+        },
+        {
+          "title": "Ed Sheeran - Shape of You",
+          "id": "jkdajduh7ady78w",
+          "youtubeId": "JGwWNGJdvx8",
+          "imgUrl": "http://i3.ytimg.com/vi/JGwWNGJdvx8/hqdefault.jpg",
+          "duration": "4:23"
+        },
+        {
+          "title": "Why Don't We - Fallin' (Adrenaline)",
+          "id": "a0ida0sidai9d",
+          "youtubeId": "vgx-R_4s12U",
+          "imgUrl": "http://i3.ytimg.com/vi/vgx-R_4s12U/maxresdefault.jpg",
+          "duration": "3:37"
+        },
+        {
+          "title": "Sia - Hey Boy",
+          "id": "bk9shs4ag352j7f",
+          "youtubeId": "lMuLNp5xW8w",
+          "imgUrl": "http://i3.ytimg.com/vi/lMuLNp5xW8w/maxresdefault.jpg",
+          "duration": "2:39"
+        },
+        {
+          "title": "Ariana Grande - positions",
+          "id": "hnmsd3un78nd6dhf",
+          "youtubeId": "tcYodQoapMg",
+          "imgUrl": "http://i3.ytimg.com/vi/tcYodQoapMg/maxresdefault.jpg",
+          "duration": "2:57"
+        }
+      ]
+    },
+    {
+      "_id": "7c01",
+      "name": "Rock nation",
+      "description": "My forever mood mix",
+      "genre": "rock",
+      "views": 73,
+      "imgUrl": "http://i3.ytimg.com/vi/hTWKbfoikeg/maxresdefault.jpg",
+      "likes": 13,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Deep Purple - Smoke on the Water",
+          "id": "mUkfdzUwEIt9sdhd343s",
+          "youtubeId": "zUwEIt9ez7M",
+          "imgUrl": "http://i3.ytimg.com/vi/zUwEIt9ez7M/maxresdefault.jpg",
+          "duration": "5:40"
+        },
+        {
+          "title": "Nirvana - Smells Like Teen Spirit",
+          "id": "s10dhTWKbfoikegf01",
+          "youtubeId": "hTWKbfoikeg",
+          "imgUrl": "http://i3.ytimg.com/vi/hTWKbfoikeg/maxresdefault.jpg",
+          "duration": "4:38"
+        },
+        {
+          "title": "Guns N' Roses - November Rain",
+          "id": "djsfhs8hf8f7h738",
+          "youtubeId": "8SbUC-UaAxE",
+          "imgUrl": "http://i3.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg",
+          "duration": "9:16"
+        },
+        {
+          "title": "Guns N' Roses - Sweet Child O' Mine",
+          "id": "hfsd62347f63f7",
+          "youtubeId": "1w7OgIMMRc4",
+          "imgUrl": "http://i3.ytimg.com/vi/1w7OgIMMRc4/maxresdefault.jpg",
+          "duration": "5:02"
+        },
+        {
+          "title": "AC/DC - Highway to Hell",
+          "id": "gdbj7vns46shv7jf5",
+          "youtubeId": "gEPmA3USJdI",
+          "imgUrl": "http://i3.ytimg.com/vi/gEPmA3USJdI/maxresdefault.jpg",
+          "duration": "4:44"
+        },
+        {
+          "title": "Pink Floyd - Another Brick In The Wall",
+          "id": "kvib8df9bd324gr6",
+          "youtubeId": "5IpYOF4Hi6Q",
+          "imgUrl": "http://i3.ytimg.com/vi/5IpYOF4Hi6Q/hqdefault.jpg",
+          "duration": "3:49"
+        },
+        {
+          "title": "Scorpions - Wind Of Change",
+          "id": "iusafa7fafs7f3e",
+          "youtubeId": "n4RjJKxsamQ",
+          "imgUrl": "http://i3.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "_id": "7c02",
+      "name": "Rock & Roll",
+      "description": "My forever mood mix",
+      "genre": "rock",
+      "views": 200,
+      "imgUrl": "http://i3.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg",
+      "likes": 65,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Nirvana - Smells Like Teen Spirit",
+          "id": "s10dhTWKbfoikegf01",
+          "youtubeId": "hTWKbfoikeg",
+          "imgUrl": "http://i3.ytimg.com/vi/hTWKbfoikeg/maxresdefault.jpg",
+          "duration": "4:38"
+        },
+        {
+          "title": "Deep Purple - Smoke on the Water",
+          "id": "mUkfdzUwEIt9sdhd343s",
+          "youtubeId": "zUwEIt9ez7M",
+          "imgUrl": "http://i3.ytimg.com/vi/zUwEIt9ez7M/maxresdefault.jpg",
+          "duration": "5:40"
+        },
+        {
+          "title": "Guns N' Roses - November Rain",
+          "id": "djsfhs8hf8f7h738",
+          "youtubeId": "8SbUC-UaAxE",
+          "imgUrl": "http://i3.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg",
+          "duration": "9:16"
+        },
+        {
+          "title": "Guns N' Roses - Sweet Child O' Mine",
+          "id": "hfsd62347f63f7",
+          "youtubeId": "1w7OgIMMRc4",
+          "imgUrl": "http://i3.ytimg.com/vi/1w7OgIMMRc4/maxresdefault.jpg",
+          "duration": "5:02"
+        },
+        {
+          "title": "AC/DC - Highway to Hell",
+          "id": "gdbj7vns46shv7jf5",
+          "youtubeId": "gEPmA3USJdI",
+          "imgUrl": "http://i3.ytimg.com/vi/gEPmA3USJdI/maxresdefault.jpg",
+          "duration": "4:44"
+        },
+        {
+          "title": "Pink Floyd - Another Brick In The Wall",
+          "id": "kvib8df9bd324gr6",
+          "youtubeId": "5IpYOF4Hi6Q",
+          "imgUrl": "http://i3.ytimg.com/vi/5IpYOF4Hi6Q/hqdefault.jpg",
+          "duration": "3:49"
+        },
+        {
+          "title": "Scorpions - Wind Of Change",
+          "id": "iusafa7fafs7f3e",
+          "youtubeId": "n4RjJKxsamQ",
+          "imgUrl": "http://i3.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "_id": "7c03",
+      "name": "Rock it",
+      "description": "My forever mood mix",
+      "genre": "rock",
+      "views": 74,
+      "imgUrl": "http://i3.ytimg.com/vi/5IpYOF4Hi6Q/hqdefault.jpg",
+      "likes": 10,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Nirvana - Smells Like Teen Spirit",
+          "id": "s10dhTWKbfoikegf01",
+          "youtubeId": "hTWKbfoikeg",
+          "imgUrl": "http://i3.ytimg.com/vi/hTWKbfoikeg/maxresdefault.jpg",
+          "duration": "4:38"
+        },
+        {
+          "title": "Deep Purple - Smoke on the Water",
+          "id": "mUkfdzUwEIt9sdhd343s",
+          "youtubeId": "zUwEIt9ez7M",
+          "imgUrl": "http://i3.ytimg.com/vi/zUwEIt9ez7M/maxresdefault.jpg",
+          "duration": "5:40"
+        },
+        {
+          "title": "Guns N' Roses - November Rain",
+          "id": "djsfhs8hf8f7h738",
+          "youtubeId": "8SbUC-UaAxE",
+          "imgUrl": "http://i3.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg",
+          "duration": "9:16"
+        },
+        {
+          "title": "Guns N' Roses - Sweet Child O' Mine",
+          "id": "hfsd62347f63f7",
+          "youtubeId": "1w7OgIMMRc4",
+          "imgUrl": "http://i3.ytimg.com/vi/1w7OgIMMRc4/maxresdefault.jpg",
+          "duration": "5:02"
+        },
+        {
+          "title": "AC/DC - Highway to Hell",
+          "id": "gdbj7vns46shv7jf5",
+          "youtubeId": "gEPmA3USJdI",
+          "imgUrl": "http://i3.ytimg.com/vi/gEPmA3USJdI/maxresdefault.jpg",
+          "duration": "4:44"
+        },
+        {
+          "title": "Pink Floyd - Another Brick In The Wall",
+          "id": "kvib8df9bd324gr6",
+          "youtubeId": "5IpYOF4Hi6Q",
+          "imgUrl": "http://i3.ytimg.com/vi/5IpYOF4Hi6Q/hqdefault.jpg",
+          "duration": "3:49"
+        },
+        {
+          "title": "Scorpions - Wind Of Change",
+          "id": "iusafa7fafs7f3e",
+          "youtubeId": "n4RjJKxsamQ",
+          "imgUrl": "http://i3.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "_id": "7c04",
+      "name": "Good old rock",
+      "description": "My forever mood mix",
+      "genre": "rock",
+      "views": 300,
+      "imgUrl": "http://i3.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+      "likes": 92,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Nirvana - Smells Like Teen Spirit",
+          "id": "s10dhTWKbfoikegf01",
+          "youtubeId": "hTWKbfoikeg",
+          "imgUrl": "http://i3.ytimg.com/vi/hTWKbfoikeg/maxresdefault.jpg",
+          "duration": "4:38"
+        },
+        {
+          "title": "Deep Purple - Smoke on the Water",
+          "id": "mUkfdzUwEIt9sdhd343s",
+          "youtubeId": "zUwEIt9ez7M",
+          "imgUrl": "http://i3.ytimg.com/vi/zUwEIt9ez7M/maxresdefault.jpg",
+          "duration": "5:40"
+        },
+        {
+          "title": "Guns N' Roses - November Rain",
+          "id": "djsfhs8hf8f7h738",
+          "youtubeId": "8SbUC-UaAxE",
+          "imgUrl": "http://i3.ytimg.com/vi/8SbUC-UaAxE/hqdefault.jpg",
+          "duration": "9:16"
+        },
+        {
+          "title": "Guns N' Roses - Sweet Child O' Mine",
+          "id": "hfsd62347f63f7",
+          "youtubeId": "1w7OgIMMRc4",
+          "imgUrl": "http://i3.ytimg.com/vi/1w7OgIMMRc4/maxresdefault.jpg",
+          "duration": "5:02"
+        },
+        {
+          "title": "AC/DC - Highway to Hell",
+          "id": "gdbj7vns46shv7jf5",
+          "youtubeId": "gEPmA3USJdI",
+          "imgUrl": "http://i3.ytimg.com/vi/gEPmA3USJdI/maxresdefault.jpg",
+          "duration": "4:44"
+        },
+        {
+          "title": "Pink Floyd - Another Brick In The Wall",
+          "id": "kvib8df9bd324gr6",
+          "youtubeId": "5IpYOF4Hi6Q",
+          "imgUrl": "http://i3.ytimg.com/vi/5IpYOF4Hi6Q/hqdefault.jpg",
+          "duration": "3:49"
+        },
+        {
+          "title": "Scorpions - Wind Of Change",
+          "id": "iusafa7fafs7f3e",
+          "youtubeId": "n4RjJKxsamQ",
+          "imgUrl": "http://i3.ytimg.com/vi/n4RjJKxsamQ/hqdefault.jpg",
+          "duration": "4:42"
+        }
+      ]
+    },
+    {
+      "_id": "8c01",
+      "name": "Electro Party",
+      "description": "My forever mood mix",
+      "genre": "electro",
+      "views": 7438,
+      "imgUrl": "http://i3.ytimg.com/vi/VLE6Y1q13qE/maxresdefault.jpg",
+      "likes": 1020,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "K/DA - DRUM GO DUM ft. Aluna, Wolftyla",
+          "id": "s10dddd01",
+          "youtubeId": "VLE6Y1q13qE",
+          "imgUrl": "http://i3.ytimg.com/vi/VLE6Y1q13qE/maxresdefault.jpg",
+          "duration": "3:20"
+        },
+        {
+          "title": "Deepierro - It's A Fine Day",
+          "id": "mU34kddgfiLjooxs",
+          "youtubeId": "aqEcYgX_iyw",
+          "imgUrl": "http://i3.ytimg.com/vi/aqEcYgX_iyw/maxresdefault.jpg",
+          "duration": "3:15"
+        },
+        {
+          "title": "UNDREAM - Backfire (feat. Hannabelle)",
+          "id": "mddgeUkfi34Ljoo4xs",
+          "youtubeId": "Alpk7mEa32A",
+          "imgUrl": "http://i3.ytimg.com/vi/Alpk7mEa32A/maxresdefault.jpg",
+          "duration": "2:56"
+        },
+        {
+          "title": "Evan Giia - tiny life",
+          "id": "mdgwLc3Fpskpo4dgeUkfiLjoo4xs",
+          "youtubeId": "gwLc3Fpskpo",
+          "imgUrl": "http://i3.ytimg.com/vi/gwLc3Fpskpo/maxresdefault.jpg",
+          "duration": "2:53"
+        },
+        {
+          "title": "Imanbek & Afrojack - Hey Baby (feat. Gia Koka)",
+          "id": "mddgeUkfiLj7oo4xs",
+          "youtubeId": "TdDX3FoJCbs",
+          "imgUrl": "http://i3.ytimg.com/vi/TdDX3FoJCbs/maxresdefault.jpg",
+          "duration": "2:57"
+        },
+        {
+          "title": "K-391, Alan Walker & Ahrix - End of Time",
+          "id": "acdg3f7h8dhg74g3dm",
+          "youtubeId": "Oj18EikZMuU",
+          "imgUrl": "http://i3.ytimg.com/vi/Oj18EikZMuU/maxresdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Ummet Ozcan x Le Shuuk – Toast Hawaii",
+          "id": "md38gvb5ef34fo4xs",
+          "youtubeId": "JIQL6Zes5ew",
+          "imgUrl": "http://i3.ytimg.com/vi/JIQL6Zes5ew/maxresdefault.jpg",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "_id": "8c02",
+      "name": "Electric Fire",
+      "description": "My forever mood mix",
+      "genre": "electro",
+      "views": 1638,
+      "imgUrl": "http://i3.ytimg.com/vi/aqEcYgX_iyw/maxresdefault.jpg",
+      "likes": 350,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "K/DA - DRUM GO DUM ft. Aluna, Wolftyla",
+          "id": "s10dddd01",
+          "youtubeId": "VLE6Y1q13qE",
+          "imgUrl": "http://i3.ytimg.com/vi/VLE6Y1q13qE/maxresdefault.jpg",
+          "duration": "3:20"
+        },
+        {
+          "title": "Deepierro - It's A Fine Day",
+          "id": "mU34kddgfiLjooxs",
+          "youtubeId": "aqEcYgX_iyw",
+          "imgUrl": "http://i3.ytimg.com/vi/aqEcYgX_iyw/maxresdefault.jpg",
+          "duration": "3:15"
+        },
+        {
+          "title": "UNDREAM - Backfire (feat. Hannabelle)",
+          "id": "mddgeUkfi34Ljoo4xs",
+          "youtubeId": "Alpk7mEa32A",
+          "imgUrl": "http://i3.ytimg.com/vi/Alpk7mEa32A/maxresdefault.jpg",
+          "duration": "2:56"
+        },
+        {
+          "title": "Evan Giia - tiny life",
+          "id": "mdgwLc3Fpskpo4dgeUkfiLjoo4xs",
+          "youtubeId": "gwLc3Fpskpo",
+          "imgUrl": "http://i3.ytimg.com/vi/gwLc3Fpskpo/maxresdefault.jpg",
+          "duration": "2:53"
+        },
+        {
+          "title": "Imanbek & Afrojack - Hey Baby (feat. Gia Koka)",
+          "id": "mddgeUkfiLj7oo4xs",
+          "youtubeId": "TdDX3FoJCbs",
+          "imgUrl": "http://i3.ytimg.com/vi/TdDX3FoJCbs/maxresdefault.jpg",
+          "duration": "2:57"
+        },
+        {
+          "title": "K-391, Alan Walker & Ahrix - End of Time",
+          "id": "acdg3f7h8dhg74g3dm",
+          "youtubeId": "Oj18EikZMuU",
+          "imgUrl": "http://i3.ytimg.com/vi/Oj18EikZMuU/maxresdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Ummet Ozcan x Le Shuuk – Toast Hawaii",
+          "id": "md38gvb5ef34fo4xs",
+          "youtubeId": "JIQL6Zes5ew",
+          "imgUrl": "http://i3.ytimg.com/vi/JIQL6Zes5ew/maxresdefault.jpg",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "_id": "8c03",
+      "name": "Electric feeling",
+      "description": "My forever mood mix",
+      "genre": "electro",
+      "views": 415,
+      "imgUrl": "http://i3.ytimg.com/vi/JIQL6Zes5ew/maxresdefault.jpg",
+      "likes": 97,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "K/DA - DRUM GO DUM ft. Aluna, Wolftyla",
+          "id": "s10dddd01",
+          "youtubeId": "VLE6Y1q13qE",
+          "imgUrl": "http://i3.ytimg.com/vi/VLE6Y1q13qE/maxresdefault.jpg",
+          "duration": "3:20"
+        },
+        {
+          "title": "Deepierro - It's A Fine Day",
+          "id": "mU34kddgfiLjooxs",
+          "youtubeId": "aqEcYgX_iyw",
+          "imgUrl": "http://i3.ytimg.com/vi/aqEcYgX_iyw/maxresdefault.jpg",
+          "duration": "3:15"
+        },
+        {
+          "title": "UNDREAM - Backfire (feat. Hannabelle)",
+          "id": "mddgeUkfi34Ljoo4xs",
+          "youtubeId": "Alpk7mEa32A",
+          "imgUrl": "http://i3.ytimg.com/vi/Alpk7mEa32A/maxresdefault.jpg",
+          "duration": "2:56"
+        },
+        {
+          "title": "Evan Giia - tiny life",
+          "id": "mdgwLc3Fpskpo4dgeUkfiLjoo4xs",
+          "youtubeId": "gwLc3Fpskpo",
+          "imgUrl": "http://i3.ytimg.com/vi/gwLc3Fpskpo/maxresdefault.jpg",
+          "duration": "2:53"
+        },
+        {
+          "title": "Imanbek & Afrojack - Hey Baby (feat. Gia Koka)",
+          "id": "mddgeUkfiLj7oo4xs",
+          "youtubeId": "TdDX3FoJCbs",
+          "imgUrl": "http://i3.ytimg.com/vi/TdDX3FoJCbs/maxresdefault.jpg",
+          "duration": "2:57"
+        },
+        {
+          "title": "K-391, Alan Walker & Ahrix - End of Time",
+          "id": "acdg3f7h8dhg74g3dm",
+          "youtubeId": "Oj18EikZMuU",
+          "imgUrl": "http://i3.ytimg.com/vi/Oj18EikZMuU/maxresdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Ummet Ozcan x Le Shuuk – Toast Hawaii",
+          "id": "md38gvb5ef34fo4xs",
+          "youtubeId": "JIQL6Zes5ew",
+          "imgUrl": "http://i3.ytimg.com/vi/JIQL6Zes5ew/maxresdefault.jpg",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "_id": "8c04",
+      "name": "Electrico wave",
+      "description": "My forever mood mix",
+      "genre": "electro",
+      "views": 321,
+      "imgUrl": "http://i3.ytimg.com/vi/gwLc3Fpskpo/maxresdefault.jpg",
+      "likes": 54,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "K/DA - DRUM GO DUM ft. Aluna, Wolftyla",
+          "id": "s10dddd01",
+          "youtubeId": "VLE6Y1q13qE",
+          "imgUrl": "http://i3.ytimg.com/vi/VLE6Y1q13qE/maxresdefault.jpg",
+          "duration": "3:20"
+        },
+        {
+          "title": "Deepierro - It's A Fine Day",
+          "id": "mU34kddgfiLjooxs",
+          "youtubeId": "aqEcYgX_iyw",
+          "imgUrl": "http://i3.ytimg.com/vi/aqEcYgX_iyw/maxresdefault.jpg",
+          "duration": "3:15"
+        },
+        {
+          "title": "UNDREAM - Backfire (feat. Hannabelle)",
+          "id": "mddgeUkfi34Ljoo4xs",
+          "youtubeId": "Alpk7mEa32A",
+          "imgUrl": "http://i3.ytimg.com/vi/Alpk7mEa32A/maxresdefault.jpg",
+          "duration": "2:56"
+        },
+        {
+          "title": "Evan Giia - tiny life",
+          "id": "mdgwLc3Fpskpo4dgeUkfiLjoo4xs",
+          "youtubeId": "gwLc3Fpskpo",
+          "imgUrl": "http://i3.ytimg.com/vi/gwLc3Fpskpo/maxresdefault.jpg",
+          "duration": "2:53"
+        },
+        {
+          "title": "Imanbek & Afrojack - Hey Baby (feat. Gia Koka)",
+          "id": "mddgeUkfiLj7oo4xs",
+          "youtubeId": "TdDX3FoJCbs",
+          "imgUrl": "http://i3.ytimg.com/vi/TdDX3FoJCbs/maxresdefault.jpg",
+          "duration": "2:57"
+        },
+        {
+          "title": "K-391, Alan Walker & Ahrix - End of Time",
+          "id": "acdg3f7h8dhg74g3dm",
+          "youtubeId": "Oj18EikZMuU",
+          "imgUrl": "http://i3.ytimg.com/vi/Oj18EikZMuU/maxresdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Ummet Ozcan x Le Shuuk – Toast Hawaii",
+          "id": "md38gvb5ef34fo4xs",
+          "youtubeId": "JIQL6Zes5ew",
+          "imgUrl": "http://i3.ytimg.com/vi/JIQL6Zes5ew/maxresdefault.jpg",
+          "duration": "2:51"
+        }
+      ]
+    },
+    {
+      "_id": "9c01",
+      "name": "Trance World",
+      "description": "My forever mood mix",
+      "genre": "trance",
+      "views": 159672,
+      "imgUrl": "https://i.ytimg.com/vi/FHVD9ft_ANw/mqdefault.jpg",
+      "likes": 6974,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Blastoyz - Mandala",
+          "id": "s103h33401",
+          "youtubeId": "FHVD9ft_ANw",
+          "imgUrl": "https://i.ytimg.com/vi/FHVD9ft_ANw/mqdefault.jpg",
+          "duration": "5:58"
+        },
+        {
+          "title": "Vini Vici & Astrix - Adhana",
+          "id": "mUkdd23fiLjor3hr3oxs",
+          "youtubeId": "Aooy7iw-7cY",
+          "imgUrl": "https://i.ytimg.com/vi/Aooy7iw-7cY/mqdefault.jpg",
+          "duration": "7:40"
+        },
+        {
+          "title": "W&W x Vini Vici - Chakra (Official Video)",
+          "id": "mUkdfrh3h43fgfiLjooxs",
+          "youtubeId": "tK_1g7nNt90",
+          "imgUrl": "http://i3.ytimg.com/vi/tK_1g7nNt90/maxresdefault.jpg",
+          "duration": "6:20"
+        },
+        {
+          "title": "Aura Vortex - Imaginarium (Original Mix)",
+          "id": "mUkfdf4ffgfi3hfdLjooxs",
+          "youtubeId": "8dRMoQJcniw",
+          "imgUrl": "http://i3.ytimg.com/vi/8dRMoQJcniw/maxresdefault.jpg",
+          "duration": "8:13"
+        },
+        {
+          "title": "Astrix & Simon Patterson - Shadows",
+          "id": "mUk3fdf446ffgfiLjosso2xs",
+          "youtubeId": "d19CLhpmmXg",
+          "imgUrl": "http://i3.ytimg.com/vi/d19CLhpmmXg/maxresdefault.jpg",
+          "duration": "8:01"
+        },
+        {
+          "title": "Faithless - Insomnia",
+          "id": "hvbvu74g23kljvb8n0hfs",
+          "youtubeId": "P8JEm4d6Wu4",
+          "imgUrl": "http://i3.ytimg.com/vi/P8JEm4d6Wu4/maxresdefault.jpg",
+          "duration": "3:34"
+        },
+        {
+          "title": "Tiesto - Adagio For Strings",
+          "id": "m53b78r368e6ghss6o2xs",
+          "youtubeId": "8CwIPa5VM18",
+          "imgUrl": "http://i3.ytimg.com/vi/8CwIPa5VM18/maxresdefault.jpg",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "_id": "9c02",
+      "name": "Trance till I die",
+      "description": "My forever mood mix",
+      "genre": "trance",
+      "views": 12652,
+      "imgUrl": "https://i.ytimg.com/vi/Aooy7iw-7cY/mqdefault.jpg",
+      "likes": 574,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Blastoyz - Mandala",
+          "id": "s103h33401",
+          "youtubeId": "FHVD9ft_ANw",
+          "imgUrl": "https://i.ytimg.com/vi/FHVD9ft_ANw/mqdefault.jpg",
+          "duration": "5:58"
+        },
+        {
+          "title": "Vini Vici & Astrix - Adhana",
+          "id": "mUkdd23fiLjor3hr3oxs",
+          "youtubeId": "Aooy7iw-7cY",
+          "imgUrl": "https://i.ytimg.com/vi/Aooy7iw-7cY/mqdefault.jpg",
+          "duration": "7:40"
+        },
+        {
+          "title": "W&W x Vini Vici - Chakra (Official Video)",
+          "id": "mUkdfrh3h43fgfiLjooxs",
+          "youtubeId": "tK_1g7nNt90",
+          "imgUrl": "http://i3.ytimg.com/vi/tK_1g7nNt90/maxresdefault.jpg",
+          "duration": "6:20"
+        },
+        {
+          "title": "Aura Vortex - Imaginarium (Original Mix)",
+          "id": "mUkfdf4ffgfi3hfdLjooxs",
+          "youtubeId": "8dRMoQJcniw",
+          "imgUrl": "http://i3.ytimg.com/vi/8dRMoQJcniw/maxresdefault.jpg",
+          "duration": "8:13"
+        },
+        {
+          "title": "Astrix & Simon Patterson - Shadows",
+          "id": "mUk3fdf446ffgfiLjosso2xs",
+          "youtubeId": "d19CLhpmmXg",
+          "imgUrl": "http://i3.ytimg.com/vi/d19CLhpmmXg/maxresdefault.jpg",
+          "duration": "8:01"
+        },
+        {
+          "title": "Faithless - Insomnia",
+          "id": "hvbvu74g23kljvb8n0hfs",
+          "youtubeId": "P8JEm4d6Wu4",
+          "imgUrl": "http://i3.ytimg.com/vi/P8JEm4d6Wu4/maxresdefault.jpg",
+          "duration": "3:34"
+        },
+        {
+          "title": "Tiesto - Adagio For Strings",
+          "id": "m53b78r368e6ghss6o2xs",
+          "youtubeId": "8CwIPa5VM18",
+          "imgUrl": "http://i3.ytimg.com/vi/8CwIPa5VM18/maxresdefault.jpg",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "_id": "9c03",
+      "name": "Trance is my passion",
+      "description": "My forever mood mix",
+      "genre": "trance",
+      "views": 52,
+      "imgUrl": "http://i3.ytimg.com/vi/d19CLhpmmXg/maxresdefault.jpg",
+      "likes": 19,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Blastoyz - Mandala",
+          "id": "s103h33401",
+          "youtubeId": "FHVD9ft_ANw",
+          "imgUrl": "https://i.ytimg.com/vi/FHVD9ft_ANw/mqdefault.jpg",
+          "duration": "5:58"
+        },
+        {
+          "title": "Vini Vici & Astrix - Adhana",
+          "id": "mUkdd23fiLjor3hr3oxs",
+          "youtubeId": "Aooy7iw-7cY",
+          "imgUrl": "https://i.ytimg.com/vi/Aooy7iw-7cY/mqdefault.jpg",
+          "duration": "7:40"
+        },
+        {
+          "title": "W&W x Vini Vici - Chakra (Official Video)",
+          "id": "mUkdfrh3h43fgfiLjooxs",
+          "youtubeId": "tK_1g7nNt90",
+          "imgUrl": "http://i3.ytimg.com/vi/tK_1g7nNt90/maxresdefault.jpg",
+          "duration": "6:20"
+        },
+        {
+          "title": "Aura Vortex - Imaginarium (Original Mix)",
+          "id": "mUkfdf4ffgfi3hfdLjooxs",
+          "youtubeId": "8dRMoQJcniw",
+          "imgUrl": "http://i3.ytimg.com/vi/8dRMoQJcniw/maxresdefault.jpg",
+          "duration": "8:13"
+        },
+        {
+          "title": "Astrix & Simon Patterson - Shadows",
+          "id": "mUk3fdf446ffgfiLjosso2xs",
+          "youtubeId": "d19CLhpmmXg",
+          "imgUrl": "http://i3.ytimg.com/vi/d19CLhpmmXg/maxresdefault.jpg",
+          "duration": "8:01"
+        },
+        {
+          "title": "Faithless - Insomnia",
+          "id": "hvbvu74g23kljvb8n0hfs",
+          "youtubeId": "P8JEm4d6Wu4",
+          "imgUrl": "http://i3.ytimg.com/vi/P8JEm4d6Wu4/maxresdefault.jpg",
+          "duration": "3:34"
+        },
+        {
+          "title": "Tiesto - Adagio For Strings",
+          "id": "m53b78r368e6ghss6o2xs",
+          "youtubeId": "8CwIPa5VM18",
+          "imgUrl": "http://i3.ytimg.com/vi/8CwIPa5VM18/maxresdefault.jpg",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "_id": "9c04",
+      "name": "Trancelation",
+      "description": "My forever mood mix",
+      "genre": "trance",
+      "views": 614,
+      "imgUrl": "http://i3.ytimg.com/vi/8CwIPa5VM18/maxresdefault.jpg",
+      "likes": 204,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Blastoyz - Mandala",
+          "id": "s103h33401",
+          "youtubeId": "FHVD9ft_ANw",
+          "imgUrl": "https://i.ytimg.com/vi/FHVD9ft_ANw/mqdefault.jpg",
+          "duration": "5:58"
+        },
+        {
+          "title": "Vini Vici & Astrix - Adhana",
+          "id": "mUkdd23fiLjor3hr3oxs",
+          "youtubeId": "Aooy7iw-7cY",
+          "imgUrl": "https://i.ytimg.com/vi/Aooy7iw-7cY/mqdefault.jpg",
+          "duration": "7:40"
+        },
+        {
+          "title": "W&W x Vini Vici - Chakra (Official Video)",
+          "id": "mUkdfrh3h43fgfiLjooxs",
+          "youtubeId": "tK_1g7nNt90",
+          "imgUrl": "http://i3.ytimg.com/vi/tK_1g7nNt90/maxresdefault.jpg",
+          "duration": "6:20"
+        },
+        {
+          "title": "Aura Vortex - Imaginarium (Original Mix)",
+          "id": "mUkfdf4ffgfi3hfdLjooxs",
+          "youtubeId": "8dRMoQJcniw",
+          "imgUrl": "http://i3.ytimg.com/vi/8dRMoQJcniw/maxresdefault.jpg",
+          "duration": "8:13"
+        },
+        {
+          "title": "Astrix & Simon Patterson - Shadows",
+          "id": "mUk3fdf446ffgfiLjosso2xs",
+          "youtubeId": "d19CLhpmmXg",
+          "imgUrl": "http://i3.ytimg.com/vi/d19CLhpmmXg/maxresdefault.jpg",
+          "duration": "8:01"
+        },
+        {
+          "title": "Faithless - Insomnia",
+          "id": "hvbvu74g23kljvb8n0hfs",
+          "youtubeId": "P8JEm4d6Wu4",
+          "imgUrl": "http://i3.ytimg.com/vi/P8JEm4d6Wu4/maxresdefault.jpg",
+          "duration": "3:34"
+        },
+        {
+          "title": "Tiesto - Adagio For Strings",
+          "id": "m53b78r368e6ghss6o2xs",
+          "youtubeId": "8CwIPa5VM18",
+          "imgUrl": "http://i3.ytimg.com/vi/8CwIPa5VM18/maxresdefault.jpg",
+          "duration": "3:26"
+        }
+      ]
+    },
+    {
+      "_id": "2d01",
+      "name": "Techno Party",
+      "description": "My forever mood mix",
+      "genre": "techno",
+      "views": 6,
+      "imgUrl": "http://i3.ytimg.com/vi/yGfmv8ipCtg/maxresdefault.jpg",
+      "likes": 0,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Obscure Shape & SHDW - Leiser Zorn",
+          "id": "s1430f01",
+          "youtubeId": "yGfmv8ipCtg",
+          "imgUrl": "http://i3.ytimg.com/vi/yGfmv8ipCtg/maxresdefault.jpg",
+          "duration": "5:42"
+        },
+        {
+          "title": "Chris Veron - Darkness (Original Mix)",
+          "id": "mU343kfiL237jooxs",
+          "youtubeId": "0YlcIV9WXOU",
+          "imgUrl": "http://i3.ytimg.com/vi/0YlcIV9WXOU/maxresdefault.jpg",
+          "duration": "3:58"
+        },
+        {
+          "title": "Ramon Tapia - Last Step",
+          "id": "mUdkf3627iLjoox7s",
+          "youtubeId": "Sjf706rjwe8",
+          "imgUrl": "http://i3.ytimg.com/vi/Sjf706rjwe8/maxresdefault.jpg",
+          "duration": "7:36"
+        },
+        {
+          "title": "Klangkuenstler - Hexenmeister",
+          "id": "mUdkf3627iLjoo3xs",
+          "youtubeId": "LhKTHUAj7ag",
+          "imgUrl": "http://i3.ytimg.com/vi/LhKTHUAj7ag/maxresdefault.jpg",
+          "duration": "6:39"
+        },
+        {
+          "title": "UMEK - Managing the Moment (Original Mix)",
+          "id": "mUdk8f3627iLjooxs",
+          "youtubeId": "JhZPE0hDewg",
+          "imgUrl": "http://i3.ytimg.com/vi/JhZPE0hDewg/maxresdefault.jpg",
+          "duration": "7:38"
+        },
+        {
+          "title": "Technotronic - Pump Up The Jam",
+          "id": "78xgbd533cv76cvfvys",
+          "youtubeId": "s1DbNHjxHcE",
+          "imgUrl": "http://i3.ytimg.com/vi/s1DbNHjxHcE/maxresdefault.jpg",
+          "duration": "5:30"
+        },
+        {
+          "title": "Tchami - Faith feat. Marlena Shaw",
+          "id": "hc64n2s7vd7623chds",
+          "youtubeId": "ELstZ3_PIqI",
+          "imgUrl": "http://i3.ytimg.com/vi/ELstZ3_PIqI/maxresdefault.jpg",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
+      "_id": "2d02",
+      "name": "Techno machine",
+      "description": "My forever mood mix",
+      "genre": "techno",
+      "views": 45319,
+      "imgUrl": "http://i3.ytimg.com/vi/0YlcIV9WXOU/maxresdefault.jpg",
+      "likes": 7483,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Obscure Shape & SHDW - Leiser Zorn",
+          "id": "s1430f01",
+          "youtubeId": "yGfmv8ipCtg",
+          "imgUrl": "http://i3.ytimg.com/vi/yGfmv8ipCtg/maxresdefault.jpg",
+          "duration": "5:42",
+          "isPlaying": true
+        },
+        {
+          "title": "Chris Veron - Darkness (Original Mix)",
+          "id": "mU343kfiL237jooxs",
+          "youtubeId": "0YlcIV9WXOU",
+          "imgUrl": "http://i3.ytimg.com/vi/0YlcIV9WXOU/maxresdefault.jpg",
+          "duration": "3:58"
+        },
+        {
+          "title": "Ramon Tapia - Last Step",
+          "id": "mUdkf3627iLjoox7s",
+          "youtubeId": "Sjf706rjwe8",
+          "imgUrl": "http://i3.ytimg.com/vi/Sjf706rjwe8/maxresdefault.jpg",
+          "duration": "7:36"
+        },
+        {
+          "title": "Klangkuenstler - Hexenmeister",
+          "id": "mUdkf3627iLjoo3xs",
+          "youtubeId": "LhKTHUAj7ag",
+          "imgUrl": "http://i3.ytimg.com/vi/LhKTHUAj7ag/maxresdefault.jpg",
+          "duration": "6:39"
+        },
+        {
+          "title": "UMEK - Managing the Moment (Original Mix)",
+          "id": "mUdk8f3627iLjooxs",
+          "youtubeId": "JhZPE0hDewg",
+          "imgUrl": "http://i3.ytimg.com/vi/JhZPE0hDewg/maxresdefault.jpg",
+          "duration": "7:38"
+        },
+        {
+          "title": "Technotronic - Pump Up The Jam",
+          "id": "78xgbd533cv76cvfvys",
+          "youtubeId": "s1DbNHjxHcE",
+          "imgUrl": "http://i3.ytimg.com/vi/s1DbNHjxHcE/maxresdefault.jpg",
+          "duration": "5:30"
+        },
+        {
+          "title": "Tchami - Faith feat. Marlena Shaw",
+          "id": "hc64n2s7vd7623chds",
+          "youtubeId": "ELstZ3_PIqI",
+          "imgUrl": "http://i3.ytimg.com/vi/ELstZ3_PIqI/maxresdefault.jpg",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
+      "_id": "2d03",
+      "name": "Technical Problem",
+      "description": "My forever mood mix",
+      "genre": "techno",
+      "views": 102,
+      "imgUrl": "http://i3.ytimg.com/vi/ELstZ3_PIqI/maxresdefault.jpg",
+      "likes": 32,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Obscure Shape & SHDW - Leiser Zorn",
+          "id": "s1430f01",
+          "youtubeId": "yGfmv8ipCtg",
+          "imgUrl": "http://i3.ytimg.com/vi/yGfmv8ipCtg/maxresdefault.jpg",
+          "duration": "5:42"
+        },
+        {
+          "title": "Chris Veron - Darkness (Original Mix)",
+          "id": "mU343kfiL237jooxs",
+          "youtubeId": "0YlcIV9WXOU",
+          "imgUrl": "http://i3.ytimg.com/vi/0YlcIV9WXOU/maxresdefault.jpg",
+          "duration": "3:58"
+        },
+        {
+          "title": "Ramon Tapia - Last Step",
+          "id": "mUdkf3627iLjoox7s",
+          "youtubeId": "Sjf706rjwe8",
+          "imgUrl": "http://i3.ytimg.com/vi/Sjf706rjwe8/maxresdefault.jpg",
+          "duration": "7:36"
+        },
+        {
+          "title": "Klangkuenstler - Hexenmeister",
+          "id": "mUdkf3627iLjoo3xs",
+          "youtubeId": "LhKTHUAj7ag",
+          "imgUrl": "http://i3.ytimg.com/vi/LhKTHUAj7ag/maxresdefault.jpg",
+          "duration": "6:39"
+        },
+        {
+          "title": "UMEK - Managing the Moment (Original Mix)",
+          "id": "mUdk8f3627iLjooxs",
+          "youtubeId": "JhZPE0hDewg",
+          "imgUrl": "http://i3.ytimg.com/vi/JhZPE0hDewg/maxresdefault.jpg",
+          "duration": "7:38"
+        },
+        {
+          "title": "Technotronic - Pump Up The Jam",
+          "id": "78xgbd533cv76cvfvys",
+          "youtubeId": "s1DbNHjxHcE",
+          "imgUrl": "http://i3.ytimg.com/vi/s1DbNHjxHcE/maxresdefault.jpg",
+          "duration": "5:30"
+        },
+        {
+          "title": "Tchami - Faith feat. Marlena Shaw",
+          "id": "hc64n2s7vd7623chds",
+          "youtubeId": "ELstZ3_PIqI",
+          "imgUrl": "http://i3.ytimg.com/vi/ELstZ3_PIqI/maxresdefault.jpg",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
+      "_id": "2d04",
+      "name": "Technotronic",
+      "description": "My forever mood mix",
+      "genre": "techno",
+      "views": 3624,
+      "imgUrl": "http://i3.ytimg.com/vi/s1DbNHjxHcE/maxresdefault.jpg",
+      "likes": 625,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Obscure Shape & SHDW - Leiser Zorn",
+          "id": "s1430f01",
+          "youtubeId": "yGfmv8ipCtg",
+          "imgUrl": "http://i3.ytimg.com/vi/yGfmv8ipCtg/maxresdefault.jpg",
+          "duration": "5:42"
+        },
+        {
+          "title": "Chris Veron - Darkness (Original Mix)",
+          "id": "mU343kfiL237jooxs",
+          "youtubeId": "0YlcIV9WXOU",
+          "imgUrl": "http://i3.ytimg.com/vi/0YlcIV9WXOU/maxresdefault.jpg",
+          "duration": "3:58"
+        },
+        {
+          "title": "Ramon Tapia - Last Step",
+          "id": "mUdkf3627iLjoox7s",
+          "youtubeId": "Sjf706rjwe8",
+          "imgUrl": "http://i3.ytimg.com/vi/Sjf706rjwe8/maxresdefault.jpg",
+          "duration": "7:36"
+        },
+        {
+          "title": "Klangkuenstler - Hexenmeister",
+          "id": "mUdkf3627iLjoo3xs",
+          "youtubeId": "LhKTHUAj7ag",
+          "imgUrl": "http://i3.ytimg.com/vi/LhKTHUAj7ag/maxresdefault.jpg",
+          "duration": "6:39"
+        },
+        {
+          "title": "UMEK - Managing the Moment (Original Mix)",
+          "id": "mUdk8f3627iLjooxs",
+          "youtubeId": "JhZPE0hDewg",
+          "imgUrl": "http://i3.ytimg.com/vi/JhZPE0hDewg/maxresdefault.jpg",
+          "duration": "7:38"
+        },
+        {
+          "title": "Technotronic - Pump Up The Jam",
+          "id": "78xgbd533cv76cvfvys",
+          "youtubeId": "s1DbNHjxHcE",
+          "imgUrl": "http://i3.ytimg.com/vi/s1DbNHjxHcE/maxresdefault.jpg",
+          "duration": "5:30"
+        },
+        {
+          "title": "Tchami - Faith feat. Marlena Shaw",
+          "id": "hc64n2s7vd7623chds",
+          "youtubeId": "ELstZ3_PIqI",
+          "imgUrl": "http://i3.ytimg.com/vi/ELstZ3_PIqI/maxresdefault.jpg",
+          "duration": "5:37"
+        }
+      ]
+    },
+    {
+      "_id": "7a01",
+      "name": "פלייליסט עידן רייכל",
+      "description": "My forever mood mix",
+      "genre": "israeli",
+      "views": 28,
+      "imgUrl": "http://i3.ytimg.com/vi/v4bCmFrd56s/hqdefault.jpg",
+      "likes": 2,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "הפרויקט של עידן רייכל - שובי אל ביתי - The Idan Raichel Project",
+          "id": "s1f43001",
+          "youtubeId": "v4bCmFrd56s",
+          "imgUrl": "http://i3.ytimg.com/vi/v4bCmFrd56s/hqdefault.jpg",
+          "duration": "3:54"
+        },
+        {
+          "title": "שלמה ארצי ודודו טסה - לתת ולקחת",
+          "id": "mU343kfhfiL237jooxs",
+          "youtubeId": "C-bAr0i0YAg",
+          "imgUrl": "http://i3.ytimg.com/vi/C-bAr0i0YAg/maxresdefault.jpg",
+          "duration": "3:48"
+        },
+        {
+          "title": "בר צברי - ג'וני",
+          "id": "mUdkf3627iLsjoox7s",
+          "youtubeId": "52CzYCmJFD8",
+          "imgUrl": "http://i3.ytimg.com/vi/52CzYCmJFD8/maxresdefault.jpg",
+          "duration": "3:09"
+        },
+        {
+          "title": "הגר יפת - ג׳וני (Prod. By Yoni Harlev) קאבר",
+          "id": "mUdkhsf3627iLjoo3xs",
+          "youtubeId": "bExiWFhSRGk",
+          "imgUrl": "http://i3.ytimg.com/vi/bExiWFhSRGk/maxresdefault.jpg",
+          "duration": "3:24"
+        },
+        {
+          "title": "עומר אדם - הנשיקות שלי",
+          "id": "mUdk8fhf3627iLjohoxs",
+          "youtubeId": "4xS6zyj4OLo",
+          "imgUrl": "http://i3.ytimg.com/vi/4xS6zyj4OLo/maxresdefault.jpg",
+          "duration": "2:24"
+        },
+        {
+          "title": "איך אפשר שלא - ג'יין בורדו",
+          "id": "mjnv7snbdf562jd9sf8",
+          "youtubeId": "-BR3ziVDazM",
+          "imgUrl": "http://i3.ytimg.com/vi/-BR3ziVDazM/hqdefault.jpg",
+          "duration": "4:06"
+        },
+        {
+          "title": "אורי בן ארי - לפעמים",
+          "id": "hvn7dn33b6ta7da9oda",
+          "youtubeId": "Z-YS2inEZb4",
+          "imgUrl": "http://i3.ytimg.com/vi/Z-YS2inEZb4/maxresdefault.jpg",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "_id": "7a02",
+      "name": "ישראלי",
+      "description": "My forever mood mix",
+      "genre": "israeli",
+      "views": 551,
+      "imgUrl": "http://i3.ytimg.com/vi/C-bAr0i0YAg/maxresdefault.jpg",
+      "likes": 74,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "הפרויקט של עידן רייכל - שובי אל ביתי - The Idan Raichel Project",
+          "id": "s1f43001",
+          "youtubeId": "v4bCmFrd56s",
+          "imgUrl": "http://i3.ytimg.com/vi/v4bCmFrd56s/hqdefault.jpg",
+          "duration": "3:54"
+        },
+        {
+          "title": "שלמה ארצי ודודו טסה - לתת ולקחת",
+          "id": "mU343kfhfiL237jooxs",
+          "youtubeId": "C-bAr0i0YAg",
+          "imgUrl": "http://i3.ytimg.com/vi/C-bAr0i0YAg/maxresdefault.jpg",
+          "duration": "3:48"
+        },
+        {
+          "title": "בר צברי - ג'וני",
+          "id": "mUdkf3627iLsjoox7s",
+          "youtubeId": "52CzYCmJFD8",
+          "imgUrl": "http://i3.ytimg.com/vi/52CzYCmJFD8/maxresdefault.jpg",
+          "duration": "3:09"
+        },
+        {
+          "title": "הגר יפת - ג׳וני (Prod. By Yoni Harlev) קאבר",
+          "id": "mUdkhsf3627iLjoo3xs",
+          "youtubeId": "bExiWFhSRGk",
+          "imgUrl": "http://i3.ytimg.com/vi/bExiWFhSRGk/maxresdefault.jpg",
+          "duration": "3:24"
+        },
+        {
+          "title": "עומר אדם - הנשיקות שלי",
+          "id": "mUdk8fhf3627iLjohoxs",
+          "youtubeId": "4xS6zyj4OLo",
+          "imgUrl": "http://i3.ytimg.com/vi/4xS6zyj4OLo/maxresdefault.jpg",
+          "duration": "2:24"
+        },
+        {
+          "title": "איך אפשר שלא - ג'יין בורדו",
+          "id": "mjnv7snbdf562jd9sf8",
+          "youtubeId": "-BR3ziVDazM",
+          "imgUrl": "http://i3.ytimg.com/vi/-BR3ziVDazM/hqdefault.jpg",
+          "duration": "4:06"
+        },
+        {
+          "title": "אורי בן ארי - לפעמים",
+          "id": "hvn7dn33b6ta7da9oda",
+          "youtubeId": "Z-YS2inEZb4",
+          "imgUrl": "http://i3.ytimg.com/vi/Z-YS2inEZb4/maxresdefault.jpg",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "_id": "7a03",
+      "name": "מצעד השירים של אבי",
+      "description": "My forever mood mix",
+      "genre": "israeli",
+      "views": 4,
+      "imgUrl": "http://i3.ytimg.com/vi/52CzYCmJFD8/maxresdefault.jpg",
+      "likes": 0,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "הפרויקט של עידן רייכל - שובי אל ביתי - The Idan Raichel Project",
+          "id": "s1f43001",
+          "youtubeId": "v4bCmFrd56s",
+          "imgUrl": "http://i3.ytimg.com/vi/v4bCmFrd56s/hqdefault.jpg",
+          "duration": "3:54"
+        },
+        {
+          "title": "שלמה ארצי ודודו טסה - לתת ולקחת",
+          "id": "mU343kfhfiL237jooxs",
+          "youtubeId": "C-bAr0i0YAg",
+          "imgUrl": "http://i3.ytimg.com/vi/C-bAr0i0YAg/maxresdefault.jpg",
+          "duration": "3:48"
+        },
+        {
+          "title": "בר צברי - ג'וני",
+          "id": "mUdkf3627iLsjoox7s",
+          "youtubeId": "52CzYCmJFD8",
+          "imgUrl": "http://i3.ytimg.com/vi/52CzYCmJFD8/maxresdefault.jpg",
+          "duration": "3:09"
+        },
+        {
+          "title": "הגר יפת - ג׳וני (Prod. By Yoni Harlev) קאבר",
+          "id": "mUdkhsf3627iLjoo3xs",
+          "youtubeId": "bExiWFhSRGk",
+          "imgUrl": "http://i3.ytimg.com/vi/bExiWFhSRGk/maxresdefault.jpg",
+          "duration": "3:24"
+        },
+        {
+          "title": "עומר אדם - הנשיקות שלי",
+          "id": "mUdk8fhf3627iLjohoxs",
+          "youtubeId": "4xS6zyj4OLo",
+          "imgUrl": "http://i3.ytimg.com/vi/4xS6zyj4OLo/maxresdefault.jpg",
+          "duration": "2:24"
+        },
+        {
+          "title": "איך אפשר שלא - ג'יין בורדו",
+          "id": "mjnv7snbdf562jd9sf8",
+          "youtubeId": "-BR3ziVDazM",
+          "imgUrl": "http://i3.ytimg.com/vi/-BR3ziVDazM/hqdefault.jpg",
+          "duration": "4:06"
+        },
+        {
+          "title": "אורי בן ארי - לפעמים",
+          "id": "hvn7dn33b6ta7da9oda",
+          "youtubeId": "Z-YS2inEZb4",
+          "imgUrl": "http://i3.ytimg.com/vi/Z-YS2inEZb4/maxresdefault.jpg",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "_id": "7a04",
+      "name": "ישראלי חדש",
+      "description": "My forever mood mix",
+      "genre": "israeli",
+      "views": 4224,
+      "imgUrl": "http://i3.ytimg.com/vi/-BR3ziVDazM/hqdefault.jpg",
+      "likes": 27,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "הפרויקט של עידן רייכל - שובי אל ביתי - The Idan Raichel Project",
+          "id": "s1f43001",
+          "youtubeId": "v4bCmFrd56s",
+          "imgUrl": "http://i3.ytimg.com/vi/v4bCmFrd56s/hqdefault.jpg",
+          "duration": "3:54"
+        },
+        {
+          "title": "שלמה ארצי ודודו טסה - לתת ולקחת",
+          "id": "mU343kfhfiL237jooxs",
+          "youtubeId": "C-bAr0i0YAg",
+          "imgUrl": "http://i3.ytimg.com/vi/C-bAr0i0YAg/maxresdefault.jpg",
+          "duration": "3:48"
+        },
+        {
+          "title": "בר צברי - ג'וני",
+          "id": "mUdkf3627iLsjoox7s",
+          "youtubeId": "52CzYCmJFD8",
+          "imgUrl": "http://i3.ytimg.com/vi/52CzYCmJFD8/maxresdefault.jpg",
+          "duration": "3:09"
+        },
+        {
+          "title": "הגר יפת - ג׳וני (Prod. By Yoni Harlev) קאבר",
+          "id": "mUdkhsf3627iLjoo3xs",
+          "youtubeId": "bExiWFhSRGk",
+          "imgUrl": "http://i3.ytimg.com/vi/bExiWFhSRGk/maxresdefault.jpg",
+          "duration": "3:24"
+        },
+        {
+          "title": "עומר אדם - הנשיקות שלי",
+          "id": "mUdk8fhf3627iLjohoxs",
+          "youtubeId": "4xS6zyj4OLo",
+          "imgUrl": "http://i3.ytimg.com/vi/4xS6zyj4OLo/maxresdefault.jpg",
+          "duration": "2:24"
+        },
+        {
+          "title": "איך אפשר שלא - ג'יין בורדו",
+          "id": "mjnv7snbdf562jd9sf8",
+          "youtubeId": "-BR3ziVDazM",
+          "imgUrl": "http://i3.ytimg.com/vi/-BR3ziVDazM/hqdefault.jpg",
+          "duration": "4:06"
+        },
+        {
+          "title": "אורי בן ארי - לפעמים",
+          "id": "hvn7dn33b6ta7da9oda",
+          "youtubeId": "Z-YS2inEZb4",
+          "imgUrl": "http://i3.ytimg.com/vi/Z-YS2inEZb4/maxresdefault.jpg",
+          "duration": "3:50"
+        }
+      ]
+    },
+    {
+      "_id": "1b01",
+      "name": "Classic",
+      "description": "My forever mood mix",
+      "genre": "classic",
+      "views": 160,
+      "imgUrl": "http://i3.ytimg.com/vi/P2l0lbn5TVg/hqdefault.jpg",
+      "likes": 23,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Tchaikovsky - Piano Concerto No 1, B Flat Minor, Op 23 open",
+          "id": "s1f386749",
+          "youtubeId": "P2l0lbn5TVg",
+          "imgUrl": "http://i3.ytimg.com/vi/P2l0lbn5TVg/hqdefault.jpg",
+          "duration": "4:10"
+        },
+        {
+          "title": "Schubert - Marche Militaire Nr 1 (arr P Breiner)",
+          "id": "kvx989b7bb6d7n",
+          "youtubeId": "axb48YrvRmw",
+          "imgUrl": "http://i3.ytimg.com/vi/axb48YrvRmw/hqdefault.jpg",
+          "duration": "4:56"
+        },
+        {
+          "title": "Rossini - Factotum aria from Barber of Sevilla",
+          "id": "8sd68s376ch34y",
+          "youtubeId": "pIf2zL6aCig",
+          "imgUrl": "http://i3.ytimg.com/vi/pIf2zL6aCig/hqdefault.jpg",
+          "duration": "4:39"
+        },
+        {
+          "title": "Ponchielli - Hours Dance",
+          "id": "j875v455ef8j8trf5",
+          "youtubeId": "HAi5QGPk8sM",
+          "imgUrl": "http://i3.ytimg.com/vi/HAi5QGPk8sM/hqdefault.jpg",
+          "duration": "7:49"
+        },
+        {
+          "title": "Puccini - Nessum Dorma",
+          "id": "cl9asc6ach5b3fd7",
+          "youtubeId": "d_92G-Dgscw",
+          "imgUrl": "http://i3.ytimg.com/vi/d_92G-Dgscw/hqdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Mozart - Sym Nr 40",
+          "id": "dfv784889fy7rg6df7",
+          "youtubeId": "y57AWXLMpGU",
+          "imgUrl": "http://i3.ytimg.com/vi/y57AWXLMpGU/hqdefault.jpg",
+          "duration": "7:31"
+        },
+        {
+          "title": "Händel - Ombra Mai Fu",
+          "id": "lmgh08fhs64n92nf7634",
+          "youtubeId": "elWyPfP-csU",
+          "imgUrl": "http://i3.ytimg.com/vi/elWyPfP-csU/hqdefault.jpg",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "_id": "1b02",
+      "name": "El classico",
+      "description": "My forever mood mix",
+      "genre": "classic",
+      "views": 2549,
+      "imgUrl": "http://i3.ytimg.com/vi/axb48YrvRmw/hqdefault.jpg",
+      "likes": 423,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Tchaikovsky - Piano Concerto No 1, B Flat Minor, Op 23 open",
+          "id": "s1f386749",
+          "youtubeId": "P2l0lbn5TVg",
+          "imgUrl": "http://i3.ytimg.com/vi/P2l0lbn5TVg/hqdefault.jpg",
+          "duration": "4:10"
+        },
+        {
+          "title": "Schubert - Marche Militaire Nr 1 (arr P Breiner)",
+          "id": "kvx989b7bb6d7n",
+          "youtubeId": "axb48YrvRmw",
+          "imgUrl": "http://i3.ytimg.com/vi/axb48YrvRmw/hqdefault.jpg",
+          "duration": "4:56"
+        },
+        {
+          "title": "Rossini - Factotum aria from Barber of Sevilla",
+          "id": "8sd68s376ch34y",
+          "youtubeId": "pIf2zL6aCig",
+          "imgUrl": "http://i3.ytimg.com/vi/pIf2zL6aCig/hqdefault.jpg",
+          "duration": "4:39"
+        },
+        {
+          "title": "Ponchielli - Hours Dance",
+          "id": "j875v455ef8j8trf5",
+          "youtubeId": "HAi5QGPk8sM",
+          "imgUrl": "http://i3.ytimg.com/vi/HAi5QGPk8sM/hqdefault.jpg",
+          "duration": "7:49"
+        },
+        {
+          "title": "Puccini - Nessum Dorma",
+          "id": "cl9asc6ach5b3fd7",
+          "youtubeId": "d_92G-Dgscw",
+          "imgUrl": "http://i3.ytimg.com/vi/d_92G-Dgscw/hqdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Mozart - Sym Nr 40",
+          "id": "dfv784889fy7rg6df7",
+          "youtubeId": "y57AWXLMpGU",
+          "imgUrl": "http://i3.ytimg.com/vi/y57AWXLMpGU/hqdefault.jpg",
+          "duration": "7:31"
+        },
+        {
+          "title": "Händel - Ombra Mai Fu",
+          "id": "lmgh08fhs64n92nf7634",
+          "youtubeId": "elWyPfP-csU",
+          "imgUrl": "http://i3.ytimg.com/vi/elWyPfP-csU/hqdefault.jpg",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "_id": "1b03",
+      "name": "Classical songs",
+      "description": "My forever mood mix",
+      "genre": "classic",
+      "views": 98632,
+      "imgUrl": "http://i3.ytimg.com/vi/pIf2zL6aCig/hqdefault.jpg",
+      "likes": 2395,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Tchaikovsky - Piano Concerto No 1, B Flat Minor, Op 23 open",
+          "id": "s1f386749",
+          "youtubeId": "P2l0lbn5TVg",
+          "imgUrl": "http://i3.ytimg.com/vi/P2l0lbn5TVg/hqdefault.jpg",
+          "duration": "4:10"
+        },
+        {
+          "title": "Schubert - Marche Militaire Nr 1 (arr P Breiner)",
+          "id": "kvx989b7bb6d7n",
+          "youtubeId": "axb48YrvRmw",
+          "imgUrl": "http://i3.ytimg.com/vi/axb48YrvRmw/hqdefault.jpg",
+          "duration": "4:56"
+        },
+        {
+          "title": "Rossini - Factotum aria from Barber of Sevilla",
+          "id": "8sd68s376ch34y",
+          "youtubeId": "pIf2zL6aCig",
+          "imgUrl": "http://i3.ytimg.com/vi/pIf2zL6aCig/hqdefault.jpg",
+          "duration": "4:39"
+        },
+        {
+          "title": "Ponchielli - Hours Dance",
+          "id": "j875v455ef8j8trf5",
+          "youtubeId": "HAi5QGPk8sM",
+          "imgUrl": "http://i3.ytimg.com/vi/HAi5QGPk8sM/hqdefault.jpg",
+          "duration": "7:49"
+        },
+        {
+          "title": "Puccini - Nessum Dorma",
+          "id": "cl9asc6ach5b3fd7",
+          "youtubeId": "d_92G-Dgscw",
+          "imgUrl": "http://i3.ytimg.com/vi/d_92G-Dgscw/hqdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Mozart - Sym Nr 40",
+          "id": "dfv784889fy7rg6df7",
+          "youtubeId": "y57AWXLMpGU",
+          "imgUrl": "http://i3.ytimg.com/vi/y57AWXLMpGU/hqdefault.jpg",
+          "duration": "7:31"
+        },
+        {
+          "title": "Händel - Ombra Mai Fu",
+          "id": "lmgh08fhs64n92nf7634",
+          "youtubeId": "elWyPfP-csU",
+          "imgUrl": "http://i3.ytimg.com/vi/elWyPfP-csU/hqdefault.jpg",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
+      "_id": "1b04",
+      "name": "Classic old stuff",
+      "description": "My forever mood mix",
+      "genre": "classic",
+      "views": 37,
+      "imgUrl": "http://i3.ytimg.com/vi/y57AWXLMpGU/hqdefault.jpg",
+      "likes": 2,
+      "tags": [
+        "Funk",
+        "Happy"
+      ],
+      "createdBy": {
+        "_id": "u101",
+        "fullName": "Yuval Beit On",
+        "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+      },
+      "likedByUsers": [
+        {
+          "_id": "u102",
+          "fullName": "Guy Indepurker",
+          "imgUrl": "http://some-img"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Haim Cohen",
+          "imgUrl": "http://some-img"
+        }
+      ],
+      "songs": [
+        {
+          "title": "Tchaikovsky - Piano Concerto No 1, B Flat Minor, Op 23 open",
+          "id": "s1f386749",
+          "youtubeId": "P2l0lbn5TVg",
+          "imgUrl": "http://i3.ytimg.com/vi/P2l0lbn5TVg/hqdefault.jpg",
+          "duration": "4:10"
+        },
+        {
+          "title": "Schubert - Marche Militaire Nr 1 (arr P Breiner)",
+          "id": "kvx989b7bb6d7n",
+          "youtubeId": "axb48YrvRmw",
+          "imgUrl": "http://i3.ytimg.com/vi/axb48YrvRmw/hqdefault.jpg",
+          "duration": "4:56"
+        },
+        {
+          "title": "Rossini - Factotum aria from Barber of Sevilla",
+          "id": "8sd68s376ch34y",
+          "youtubeId": "pIf2zL6aCig",
+          "imgUrl": "http://i3.ytimg.com/vi/pIf2zL6aCig/hqdefault.jpg",
+          "duration": "4:39"
+        },
+        {
+          "title": "Ponchielli - Hours Dance",
+          "id": "j875v455ef8j8trf5",
+          "youtubeId": "HAi5QGPk8sM",
+          "imgUrl": "http://i3.ytimg.com/vi/HAi5QGPk8sM/hqdefault.jpg",
+          "duration": "7:49"
+        },
+        {
+          "title": "Puccini - Nessum Dorma",
+          "id": "cl9asc6ach5b3fd7",
+          "youtubeId": "d_92G-Dgscw",
+          "imgUrl": "http://i3.ytimg.com/vi/d_92G-Dgscw/hqdefault.jpg",
+          "duration": "3:05"
+        },
+        {
+          "title": "Mozart - Sym Nr 40",
+          "id": "dfv784889fy7rg6df7",
+          "youtubeId": "y57AWXLMpGU",
+          "imgUrl": "http://i3.ytimg.com/vi/y57AWXLMpGU/hqdefault.jpg",
+          "duration": "7:31"
+        },
+        {
+          "title": "Händel - Ombra Mai Fu",
+          "id": "lmgh08fhs64n92nf7634",
+          "youtubeId": "elWyPfP-csU",
+          "imgUrl": "http://i3.ytimg.com/vi/elWyPfP-csU/hqdefault.jpg",
+          "duration": "2:50"
+        }
+      ]
+    },
+    {
+<<<<<<< HEAD
+      "name": "My mix",
+      "description": "Mix description",
+      "genre": "funk",
+      "views": 0,
+      "imgUrl": "defualtImg.jpg",
+      "likes": 0,
+      "createdBy": {
+        "_id": "bTt5m8ZtYqP",
+=======
+      "name": "New Mix",
+      "description": "Mix description",
+      "genre": "funk",
+      "views": 0,
+      "imgUrl": "",
+      "likes": 0,
+      "createdBy": {
+        "_id": "YuYLnJtGgV2",
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+        "fullName": "Orly Amdadi"
+      },
+      "tags": [],
+      "likedByUsers": [],
+      "songs": [
+        {
+<<<<<<< HEAD
+          "title": "דולי ופן עם דיקלה, עידן חביב ומארק אליהו - ואז את תראי",
+          "id": "Sr4ol8qSYlf",
+          "youtubeId": "iCitB5bkB3E",
+          "imgUrl": "https://i.ytimg.com/vi/iCitB5bkB3E/default.jpg",
+          "duration": "3:16"
+        }
+      ],
+      "_id": "L8GK0cl"
+=======
+          "title": "עומר אדם - פסקול חיי",
+          "id": "bH2z4xbWFdV",
+          "youtubeId": "xmeCr9QPhkA",
+          "imgUrl": "https://i.ytimg.com/vi/xmeCr9QPhkA/default.jpg",
+          "duration": ""
+        }
+      ],
+      "_id": "hmj7MDf"
+    },
+    {
+      "name": "Electro Mix",
+      "description": "what what",
+      "genre": "electro",
+      "views": 0,
+      "imgUrl": "defualtImg.jpg",
+      "likes": 0,
+      "createdBy": {
+        "_id": "FW2NMfyJP93",
+        "fullName": "Orly Amdadi"
+      },
+      "tags": [],
+      "likedByUsers": [],
+      "songs": [],
+      "_id": "oVtaXhH"
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+    }
+  ],
+  "user": [
+    {
+      "_id": "u102",
+      "fullName": "Shalom tikva",
+      "email": "shalom@tikva.com",
+      "password": "hapoel",
+      "isAdmin": false,
+<<<<<<< HEAD
+      "followers": [
+        {
+          "_id": "u103",
+          "fullName": "Harel nisim",
+          "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+        },
+        {
+          "_id": "u100",
+          "fullName": "Aba Shebashamim",
+          "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+        }
+      ],
+=======
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+    },
+    {
+      "_id": "u100",
+      "fullName": "Aba Shebashamim",
+      "email": "god@isgood.com",
+      "password": "godforever",
+      "isAdmin": true,
+<<<<<<< HEAD
+      "followers": [
+        {
+          "_id": "u102",
+          "fullName": "Shalom tikva",
+          "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+        },
+        {
+          "_id": "u103",
+          "fullName": "Harel nisim",
+          "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+        }
+      ],
+=======
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+    },
+    {
+      "_id": "u100",
+      "fullName": "Harel nisim",
+      "email": "harel@nisim.com",
+      "password": "nisiminis",
+      "isAdmin": false,
+<<<<<<< HEAD
+      "followers": [
+        {
+          "_id": "u102",
+          "fullName": "Shalom tikva",
+          "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+        },
+        {
+          "_id": "u100",
+          "fullName": "Aba Shebashamim",
+          "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+        }
+      ],
+=======
+>>>>>>> e1f6dcaa3e89f1d06f2c0ab3b55ad88ddb5effb2
+      "imgUrl": "https://res.cloudinary.com/hw-projects/image/upload/v1606654351/appmixes/user_headphones.png"
+    }
+  ]
+}

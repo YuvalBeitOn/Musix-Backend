@@ -1,5 +1,4 @@
-var socket;
-var io;
+const chalk = require('chalk');
 
 function socketHandler(Socket, Io) {
     socket = Socket
@@ -7,7 +6,8 @@ function socketHandler(Socket, Io) {
 }
 
 function loadMixes() {
-    socket.broadcast.emit('load-mixes')
+ console.log(  chalk.bold.green('update mixes: send event to load all'))
+ io.emit('mixes-update')
 }
 
 function setMix(mixId) {
@@ -20,7 +20,9 @@ function setMix(mixId) {
 }
 
 function loadMix() {
-    socket.broadcast.to(socket.mix).emit('load-mix')
+    console.log( chalk.bold.red('one mix is update sending event'))
+
+    io.to(socket.mix).emit('mix-update')
 }
 
 
