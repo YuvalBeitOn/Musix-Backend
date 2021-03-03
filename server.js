@@ -3,15 +3,13 @@ const bodyParser = require('body-parser');
 const cors = require('cors');
 const cookieParser = require('cookie-parser');
 const session = require('express-session');
-
 const path = require('path');
 const app = express();
 const http = require('http').createServer(app);
-
 const io = require('socket.io')(http);
 
 app.use(cookieParser());
-app.use(bodyParser.json({limit: '50mb'}));
+app.use(bodyParser.json({ limit: '50mb' }));
 app.use(
 	session({
 		secret: 'Yuval&Guy',
@@ -31,7 +29,7 @@ if (process.env.NODE_ENV === 'production') {
 	app.use(cors(corsOptions));
 }
 
-const {connectSockets} = require('./api/socket/socket.routes');
+const { connectSockets } = require('./api/socket/socket.routes');
 const authRoutes = require('./api/auth/auth.routes');
 const userRoutes = require('./api/user/user.routes');
 const mixRoutes = require('./api/mix/mix.routes')
@@ -49,6 +47,5 @@ app.get('/**', (req, res) => {
 const logger = require('./services/logger.service');
 const port = process.env.PORT || 3030;
 http.listen(port, () => {
-	// logger.info('Musix BackEnd server is running on port: ' + port);
 	console.log(`the server running in port ${port}`);
 });

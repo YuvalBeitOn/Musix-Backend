@@ -5,7 +5,6 @@ if (!fs.existsSync(logsDir)) {
     fs.mkdirSync(logsDir);
 }
 
-//Musix BackEnd: Logger time definition;
 function getTime() {
     let now = new Date();
     return now.toUTCString();
@@ -14,7 +13,6 @@ function getTime() {
 function doLog(line, level='Debug') {
     if (typeof line !== 'string') line = JSON.stringify(line)
     line = `${getTime()} - ${level} - ${line}\n` 
-    // console.log(line);
     fs.appendFileSync('./logs/backend.log',line);
 }
 

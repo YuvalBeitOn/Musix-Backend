@@ -1,8 +1,5 @@
-
-
 const dbService = require('../../services/db.service')
 const ObjectId = require('mongodb').ObjectId
-const session = require('express-session')
 
 module.exports = {
     getByEmail,
@@ -14,6 +11,7 @@ module.exports = {
 }
 
 async function getByEmail(email) {
+    email = email.toLowerCase();
 	const collection = await dbService.getCollection('user');
 	try {
 		const user = await collection.findOne({ email });
@@ -36,6 +34,7 @@ async function remove(userId) {
 }
 
 async function add(user) {
+    console.log('user in add:', user);
     const collection = await dbService.getCollection('user')
     try {
         await collection.insertOne(user);
@@ -61,7 +60,6 @@ async function getById(userId) {
     const collection = await dbService.getCollection('user')
     try {
         const user = await collection.findOne({ "_id": ObjectId(userId) })
-        console.log("getById -> user", user)
         delete user.password
         return user
     } catch (err) {
@@ -74,7 +72,6 @@ async function getById(userId) {
 async function update(user) {
 	const collection = await dbService.getCollection('user');
 	user._id = ObjectId(user._id);
-	console.log('user before update in service:', user);
 	try {
         await collection.updateOne({ _id: user._id }, { $set: user })
 		return user;

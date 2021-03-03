@@ -1,5 +1,4 @@
 const mixService = require('./mix-service');
-// const logger = require('../../services/logger.service');
 
 async function getMix(req, res) {
   const mix = await mixService.getById(req.params.id);
@@ -8,7 +7,6 @@ async function getMix(req, res) {
 
 async function getMixes(req, res) {
   const mixes = await mixService.query(req.query);
-  // logger.debug(mixes);
   res.send(mixes);
 }
 

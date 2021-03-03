@@ -4,21 +4,19 @@ var io;
 function socketHandler(Socket, Io) {
     socket = Socket
     io = Io
- 
 }
 
 function loadMixes() {
- socket.broadcast.emit('load-mixes')
+    socket.broadcast.emit('load-mixes')
 }
 
 function setMix(mixId) {
-    if(socket.mix){
+    if (socket.mix) {
         socket.leave(socket.mix)
     }
     socket.join(mixId)
     socket.mix = mixId
-    console.log('socket.mix:', socket.mix)
-   
+
 }
 
 function loadMix() {
@@ -27,6 +25,6 @@ function loadMix() {
 
 
 module.exports = {
-    loadMixes,socketHandler,setMix,loadMix
-  
+    loadMixes, socketHandler, setMix, loadMix
+
 }
